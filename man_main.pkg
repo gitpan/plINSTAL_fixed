@@ -1,0 +1,1572 @@
+
+PACKFILE
+  ID = 'mainman',
+  SOURCE = 'DRIVE: perl_man.zip',
+  * -j circumvents a limitation of SI
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR%'
+
+FILE
+  PWS = 'man1/GET.1',
+  PACKID = 'mainman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 9866,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/HEAD.1',
+  PACKID = 'mainman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 9868,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/POST.1',
+  PACKID = 'mainman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 9868,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/Pumpkin.1',
+  PACKID = 'mainman',
+  DATE = 031104,
+  TIME = 1938,
+  SIZE = 73243,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/a2p.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 10792,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/c2ph.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 14329,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/cpan.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 6382,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/dbiproxy.1',
+  PACKID = 'mainman',
+  DATE = 020319,
+  TIME = 2245,
+  SIZE = 10295,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/dbish.1',
+  PACKID = 'mainman',
+  DATE = 020319,
+  TIME = 2245,
+  SIZE = 4820,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/dprofpp.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 12210,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/edi2xml.1',
+  PACKID = 'mainman',
+  DATE = 020320,
+  TIME = 2107,
+  SIZE = 6648,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/enc2xs.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 12741,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/find2perl.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 11517,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/h2ph.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 7534,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/h2xs.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 21092,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/imgsize.1',
+  PACKID = 'mainman',
+  DATE = 020314,
+  TIME = 0149,
+  SIZE = 5933,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/libnetcfg.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5807,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/lwp-download.1',
+  PACKID = 'mainman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 5629,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/lwp-mirror.1',
+  PACKID = 'mainman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 5482,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/lwp-request.1',
+  PACKID = 'mainman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 9882,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/lwp-rget.1',
+  PACKID = 'mainman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 9117,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perl.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 21174,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perl5004delta.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 75861,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perl5005delta.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 48399,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perl561delta.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 163182,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perl56delta.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 141850,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perl570delta.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 29424,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perl571delta.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 40079,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perl572delta.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 33683,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perl573delta.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 9830,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perl581delta.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 51065,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perl58delta.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 137946,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlaix.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 15898,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlamiga.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 12141,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlapi.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 149537,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlapio.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 27713,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlapollo.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 4618,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlartistic.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 11695,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlbeos.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 7380,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlbook.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 4554,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlboot.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 35649,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlbot.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 21411,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlbs2000.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 13515,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlbug.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 15673,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlcall.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 69772,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlcc.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 7392,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlce.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 8968,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlcheat.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 8449,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlclib.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 13266,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlcn.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 8376,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlcompile.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 21678,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlcygwin.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 29430,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perldata.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 44092,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perldbmfilter.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 9996,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perldebguts.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 49789,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perldebtut.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 30586,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perldebug.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 45868,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perldelta.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 9323,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perldgux.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 6960,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perldiag.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 232368,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perldoc.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 12472,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perldos.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 16397,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perldsc.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 34806,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlebcdic.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 77965,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlembed.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 48024,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlepoc.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 8219,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlfaq.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 29953,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlfaq1.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 22851,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlfaq2.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 30415,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlfaq3.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 45657,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlfaq4.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 89879,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlfaq5.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 50270,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlfaq6.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 39317,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlfaq7.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 43851,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlfaq8.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 54543,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlfaq9.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 33662,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlfilter.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 28239,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlfork.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 17038,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlform.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 19367,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlfreebsd.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 6052,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlfunc.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 333534,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlgpl.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 25180,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlguts.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 124840,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlhack.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 109418,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlhist.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 31905,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlhpux.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 28612,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlhurd.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 5898,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlinstall.1',
+  PACKID = 'mainman',
+  DATE = 981003,
+  TIME = 2106,
+  SIZE = 75342,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlintern.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 26954,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlintro.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 27898,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perliol.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 46574,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlipc.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 78896,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlirix.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 9190,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlivp.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 8741,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perljp.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 11839,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlko.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 11421,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perllexwarn.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 21805,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perllocale.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 53520,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perllol.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 14063,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlmachten.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 7526,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlmacos.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 6129,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlmacosx.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 12326,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlmint.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 14420,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlmod.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 28476,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlmodinstall.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 20325,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlmodlib.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 85749,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlmodstyle.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 28428,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlmpeix.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 19750,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlnetware.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 11000,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlnewmod.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 17077,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlnumber.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 13847,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlobj.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 28124,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlop.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 103441,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlopentut.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 46925,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlos2-pre.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2049,
+  SIZE = 98687,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlos2.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 108342,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlos390.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 22455,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlos400.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 9167,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlothrtut.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 49472,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlpacktut.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 57143,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlplan9.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 9726,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlpod.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 29176,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlpodspec.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 81271,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlport.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 106046,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlqnx.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 8681,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlre.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 67824,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlref.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 34940,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlreftut.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 25520,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlrequick.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 25342,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlreref.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 15205,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlretut.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 122310,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlrun.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 57324,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlsec.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 27269,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlsolaris.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 36645,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlstyle.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 12741,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlsub.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 64725,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlsyn.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 35050,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlthrtut.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 53188,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perltie.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 46552,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perltoc.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 674584,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perltodo.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 44340,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perltooc.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 63123,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perltoot.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 80568,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perltrap.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 52708,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perltru64.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 12114,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perltw.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 9103,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlunicode.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 60614,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perluniintro.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 43513,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlutil.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 10838,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perluts.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7493,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlvar.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 68868,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlvmesa.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 8415,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlvms.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 50228,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlvos.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 19450,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlwin32.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 39984,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlxs.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 89313,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/perlxstut.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 64773,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/piconv.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 7066,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/pl2pm.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4556,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/pod2html.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 6977,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/pod2latex.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 7620,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/pod2man.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 24435,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/pod2text.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 10529,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/pod2usage.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 6219,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/podchecker.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 6123,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/podselect.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5544,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/psed.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 27201,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/pstruct.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 14329,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/s2p.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 27201,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/splain.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 10244,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/xml2edi.1',
+  PACKID = 'mainman',
+  DATE = 020320,
+  TIME = 2107,
+  SIZE = 6850,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/xmlpretty.1',
+  PACKID = 'mainman',
+  DATE = 020320,
+  TIME = 2207,
+  SIZE = 8115,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/xsubpp.1',
+  PACKID = 'mainman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 7190,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man1/yapp.1',
+  PACKID = 'mainman',
+  DATE = 020314,
+  TIME = 0155,
+  SIZE = 7807,
+  PWSPATH = 'AUX7'
+

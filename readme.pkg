@@ -1,0 +1,33 @@
+
+PACKFILE
+  ID = 'readme',
+  SOURCE = 'DRIVE: plREADME.zip',
+  * -j circumvents a limitation of SI
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR%'
+
+FILE
+  PWS = 'Changes.os2',
+  PACKID = 'readme',
+  DATE = 031216,
+  TIME = 1823,
+  SIZE = 36216,
+  PWSPATH = 'AUX9'
+
+
+FILE
+  PWS = 'README.os2',
+  PACKID = 'readme',
+  DATE = 031216,
+  TIME = 2016,
+  SIZE = 92785,
+  PWSPATH = 'AUX9'
+
+
+FILE
+  PWS = 'patches.zip',
+  PACKID = 'readme',
+  DATE = 031216,
+  TIME = 2318,
+  SIZE = 56347,
+  PWSPATH = 'AUX9'
+

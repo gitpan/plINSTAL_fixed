@@ -1,0 +1,64 @@
+
+PACKFILE
+  ID = 'execs',
+  SOURCE = 'DRIVE: perl_exc.zip',
+  * -j circumvents a limitation of SI
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR%'
+
+FILE
+  PWS = 'perl.exe',
+  PACKID = 'execs',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 13202,
+  PWSPATH = 'AUX1'
+
+
+FILE
+  PWS = 'perl.ico',
+  PACKID = 'execs',
+  DATE = 960807,
+  TIME = 1733,
+  SIZE = 874,
+  PWSPATH = 'AUX1'
+
+
+FILE
+  PWS = 'perl__.exe',
+  PACKID = 'execs',
+  REPLACEINUSE = 'D I R U',
+  DATE = 981111,
+  TIME = 1632,
+  SIZE = 6259,
+  PWSPATH = 'AUX1'
+
+
+FILE
+  PWS = 'perl__.ico',
+  PACKID = 'execs',
+  DATE = 960927,
+  TIME = 2220,
+  SIZE = 9146,
+  PWSPATH = 'AUX1'
+
+
+FILE
+  PWS = 'perl___.exe',
+  PACKID = 'execs',
+  REPLACEINUSE = 'D I R U',
+  DATE = 981111,
+  TIME = 1632,
+  SIZE = 6259,
+  PWSPATH = 'AUX1'
+
+
+FILE
+  PWS = 'perl312F.dll',
+  PACKID = 'execs',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031216,
+  TIME = 1634,
+  SIZE = 604920,
+  PWSPATH = 'AUX3'
+

@@ -1,0 +1,16 @@
+
+PACKFILE
+  ID = 'aout',
+  SOURCE = 'DRIVE: perl_aou.zip',
+  * -j circumvents a limitation of SI
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR%'
+
+FILE
+  PWS = 'perl_.exe',
+  PACKID = 'aout',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031216,
+  TIME = 2049,
+  SIZE = 5365764,
+  PWSPATH = 'AUX1'
+

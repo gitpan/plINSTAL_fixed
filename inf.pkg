@@ -1,0 +1,15 @@
+
+PACKFILE
+  ID = 'inf',
+  SOURCE = 'DRIVE: perl_inf.zip',
+  * -j circumvents a limitation of SI
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR%'
+
+FILE
+  PWS = 'perl.INF',
+  PACKID = 'inf',
+  DATE = 031216,
+  TIME = 2243,
+  SIZE = 11971678,
+  PWSPATH = 'AUX8'
+

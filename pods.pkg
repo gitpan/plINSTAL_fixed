@@ -1,0 +1,1194 @@
+
+PACKFILE
+  ID = 'pods',
+  SOURCE = 'DRIVE: perl_pod.zip',
+  * -j circumvents a limitation of SI
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR%'
+
+FILE
+  PWS = 'perl.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 14170,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perl5004delta.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 56240,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perl5005delta.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 34283,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perl561delta.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 124489,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perl56delta.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 106979,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perl570delta.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 21655,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perl571delta.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 30401,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perl572delta.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 25551,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perl573delta.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4648,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perl581delta.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 38053,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perl58delta.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 114936,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlaix.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 10611,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlamiga.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 7042,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlapi.pod',
+  PACKID = 'pods',
+  DATE = 031103,
+  TIME = 0004,
+  SIZE = 120125,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlapio.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 19334,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlapollo.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 829,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlartistic.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 6802,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlbeos.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 3216,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlbook.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 617,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlboot.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 25919,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlbot.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 11558,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlbs2000.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 7929,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlcall.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 55369,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlce.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 4610,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlcheat.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4179,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlclib.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 7440,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlcn.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 4049,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlcompile.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 15584,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlcygwin.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 20529,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perldata.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 35352,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perldbmfilter.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 5031,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perldebguts.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 37421,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perldebtut.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 21297,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perldebug.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 33758,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perldelta.pod',
+  PACKID = 'pods',
+  DATE = 031102,
+  TIME = 1316,
+  SIZE = 4467,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perldgux.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 2821,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perldiag.pod',
+  PACKID = 'pods',
+  DATE = 031018,
+  TIME = 0933,
+  SIZE = 163445,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perldoc.pod',
+  PACKID = 'pods',
+  DATE = 031023,
+  TIME = 1229,
+  SIZE = 6698,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perldos.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 10877,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perldsc.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 24818,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlebcdic.pod',
+  PACKID = 'pods',
+  DATE = 031105,
+  TIME = 0135,
+  SIZE = 64896,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlembed.pod',
+  PACKID = 'pods',
+  DATE = 031022,
+  TIME = 1155,
+  SIZE = 36963,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlepoc.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 3778,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlfaq.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 22654,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlfaq1.pod',
+  PACKID = 'pods',
+  DATE = 031018,
+  TIME = 0625,
+  SIZE = 17159,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlfaq2.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 22822,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlfaq3.pod',
+  PACKID = 'pods',
+  DATE = 031018,
+  TIME = 0626,
+  SIZE = 35633,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlfaq4.pod',
+  PACKID = 'pods',
+  DATE = 031018,
+  TIME = 0625,
+  SIZE = 68348,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlfaq5.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 37117,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlfaq6.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 28206,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlfaq7.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 32279,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlfaq8.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 40976,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlfaq9.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 24849,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlfilter.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 21201,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlfork.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 10897,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlform.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 13651,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlfreebsd.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 1950,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlfunc.pod',
+  PACKID = 'pods',
+  DATE = 031101,
+  TIME = 0400,
+  SIZE = 264245,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlgpl.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 18800,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlguts.pod',
+  PACKID = 'pods',
+  DATE = 031102,
+  TIME = 1403,
+  SIZE = 98225,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlhack.pod',
+  PACKID = 'pods',
+  DATE = 031022,
+  TIME = 1114,
+  SIZE = 91188,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlhist.pod',
+  PACKID = 'pods',
+  DATE = 031105,
+  TIME = 1218,
+  SIZE = 25330,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlhpux.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 22032,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlhurd.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 1990,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlintern.pod',
+  PACKID = 'pods',
+  DATE = 031103,
+  TIME = 0004,
+  SIZE = 19536,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlintro.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 20274,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perliol.pod',
+  PACKID = 'pods',
+  DATE = 031018,
+  TIME = 0639,
+  SIZE = 33734,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlipc.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 62752,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlirix.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 4604,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perljp.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 6888,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlko.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 6375,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perllexwarn.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 14770,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perllocale.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 41085,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perllol.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 8248,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlmachten.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 3284,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlmacos.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 2111,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlmacosx.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 7679,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlmint.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 9539,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlmod.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 20794,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlmodinstall.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 13868,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlmodlib.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 65347,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlmodstyle.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 21114,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlmpeix.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 13901,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlnetware.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 6439,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlnewmod.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 11523,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlnumber.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 8352,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlobj.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 20887,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlop.pod',
+  PACKID = 'pods',
+  DATE = 031018,
+  TIME = 0927,
+  SIZE = 81581,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlopentut.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 37022,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlos2-pre.pod',
+  PACKID = 'pods',
+  DATE = 031215,
+  TIME = 2040,
+  SIZE = 76838,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlos2.pod',
+  PACKID = 'pods',
+  DATE = 031215,
+  TIME = 2040,
+  SIZE = 85161,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlos390.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 16074,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlos400.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 4618,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlothrtut.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 40640,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlpacktut.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 45371,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlplan9.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 5125,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlpod.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 20385,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlpodspec.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 67079,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlport.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 83520,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlqnx.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 4246,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlre.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 51348,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlref.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 27441,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlreftut.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 18629,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlrequick.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 17574,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlreref.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 9655,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlretut.pod',
+  PACKID = 'pods',
+  DATE = 031018,
+  TIME = 0947,
+  SIZE = 100888,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlrun.pod',
+  PACKID = 'pods',
+  DATE = 031101,
+  TIME = 0400,
+  SIZE = 45045,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlsec.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 21042,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlsolaris.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 28837,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlstyle.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 7776,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlsub.pod',
+  PACKID = 'pods',
+  DATE = 031018,
+  TIME = 0945,
+  SIZE = 50842,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlsyn.pod',
+  PACKID = 'pods',
+  DATE = 031018,
+  TIME = 0941,
+  SIZE = 25017,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlthrtut.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 43591,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perltie.pod',
+  PACKID = 'pods',
+  DATE = 031102,
+  TIME = 1351,
+  SIZE = 34679,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perltoc.pod',
+  PACKID = 'pods',
+  DATE = 031027,
+  TIME = 1045,
+  SIZE = 347889,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perltodo.pod',
+  PACKID = 'pods',
+  DATE = 031018,
+  TIME = 0930,
+  SIZE = 29406,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perltooc.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 51322,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perltoot.pod',
+  PACKID = 'pods',
+  DATE = 031022,
+  TIME = 1051,
+  SIZE = 67213,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perltrap.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 38638,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perltru64.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 7326,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perltw.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 4464,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlunicode.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 48098,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perluniintro.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 33400,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlutil.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 6284,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perluts.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 3180,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlvar.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 52504,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlvmesa.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 3952,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlvms.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 39226,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlvos.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 13358,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlwin32.pod',
+  PACKID = 'pods',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 32334,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlxs.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 69439,
+  PWSPATH = 'AUX6'
+
+
+FILE
+  PWS = 'perlxstut.pod',
+  PACKID = 'pods',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 50110,
+  PWSPATH = 'AUX6'
+

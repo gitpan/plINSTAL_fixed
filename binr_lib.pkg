@@ -1,0 +1,2280 @@
+
+PACKFILE
+  ID = 'binlib',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  * -j circumvents a limitation of SI
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR%'
+
+FILE
+  PWS = '5.8.2/os2/CORE/EXTERN.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 1751,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/INTERN.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 1424,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/XSUB.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 17459,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/av.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 3044,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/cc_runtime.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 2196,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/config.h',
+  PACKID = 'binlib',
+  DATE = 031210,
+  TIME = 1420,
+  SIZE = 139681,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/cop.h',
+  PACKID = 'binlib',
+  DATE = 031018,
+  TIME = 1532,
+  SIZE = 18283,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/cv.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 7841,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/dlfcn.h',
+  PACKID = 'binlib',
+  DATE = 031108,
+  TIME = 1226,
+  SIZE = 137,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/dosish.h',
+  PACKID = 'binlib',
+  DATE = 031018,
+  TIME = 1532,
+  SIZE = 5609,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/embed.h',
+  PACKID = 'binlib',
+  DATE = 031105,
+  TIME = 1244,
+  SIZE = 158465,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/embedvar.h',
+  PACKID = 'binlib',
+  DATE = 031105,
+  TIME = 1244,
+  SIZE = 61106,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/fakesdio.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 3180,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/fakethr.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1822,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/form.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 691,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/gv.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 5143,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/handy.h',
+  PACKID = 'binlib',
+  DATE = 031209,
+  TIME = 2347,
+  SIZE = 21816,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/hv.h',
+  PACKID = 'binlib',
+  DATE = 031103,
+  TIME = 0025,
+  SIZE = 12672,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/intrpvar.h',
+  PACKID = 'binlib',
+  DATE = 031103,
+  TIME = 0004,
+  SIZE = 20201,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/iperlsys.h',
+  PACKID = 'binlib',
+  DATE = 031018,
+  TIME = 1533,
+  SIZE = 48088,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/keywords.h',
+  PACKID = 'binlib',
+  DATE = 031103,
+  TIME = 0004,
+  SIZE = 6195,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/libperl.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1757,
+  SIZE = 1286040,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/libperl.lib',
+  PACKID = 'binlib',
+  DATE = 031214,
+  TIME = 0113,
+  SIZE = 107008,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/libperl_dllmain.a',
+  PACKID = 'binlib',
+  DATE = 031108,
+  TIME = 1423,
+  SIZE = 162,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/libperl_dllmain.imp',
+  PACKID = 'binlib',
+  DATE = 031108,
+  TIME = 1423,
+  SIZE = 30,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/libperl_dllmain.lib',
+  PACKID = 'binlib',
+  DATE = 031108,
+  TIME = 1423,
+  SIZE = 2048,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/libperl_override.imp',
+  PACKID = 'binlib',
+  DATE = 031108,
+  TIME = 1242,
+  SIZE = 298,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/libperl_override.lib',
+  PACKID = 'binlib',
+  DATE = 031108,
+  TIME = 1242,
+  SIZE = 2560,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/malloc_ctl.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1484,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/mg.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1774,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/nostdio.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3275,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/op.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 15690,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/opcode.h',
+  PACKID = 'binlib',
+  DATE = 031103,
+  TIME = 0004,
+  SIZE = 46671,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/opnames.h',
+  PACKID = 'binlib',
+  DATE = 031103,
+  TIME = 0004,
+  SIZE = 9278,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/os2ish.h',
+  PACKID = 'binlib',
+  DATE = 031214,
+  TIME = 0101,
+  SIZE = 38351,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/os2thread.h',
+  PACKID = 'binlib',
+  DATE = 031108,
+  TIME = 1226,
+  SIZE = 523,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/pad.h',
+  PACKID = 'binlib',
+  DATE = 031019,
+  TIME = 1014,
+  SIZE = 8521,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/patchlevel.h',
+  PACKID = 'binlib',
+  DATE = 031105,
+  TIME = 1304,
+  SIZE = 4642,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/perl.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1757,
+  SIZE = 1286040,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/perl.h',
+  PACKID = 'binlib',
+  DATE = 031210,
+  TIME = 0201,
+  SIZE = 128857,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/perl.lib',
+  PACKID = 'binlib',
+  DATE = 031214,
+  TIME = 0113,
+  SIZE = 107008,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/perlapi.h',
+  PACKID = 'binlib',
+  DATE = 031105,
+  TIME = 1244,
+  SIZE = 35854,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/perlio.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 9979,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/perliol.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 7392,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/perlsdio.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4867,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/perlsfio.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2776,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/perlvars.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2367,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/perly.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1270,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/pp.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 12935,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/pp_proto.h',
+  PACKID = 'binlib',
+  DATE = 031103,
+  TIME = 0004,
+  SIZE = 10533,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/proto.h',
+  PACKID = 'binlib',
+  DATE = 031105,
+  TIME = 1244,
+  SIZE = 73861,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/reentr.h',
+  PACKID = 'binlib',
+  DATE = 031105,
+  TIME = 0107,
+  SIZE = 26053,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/reentr.inc',
+  PACKID = 'binlib',
+  DATE = 031105,
+  TIME = 0107,
+  SIZE = 120489,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/regcomp.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 13540,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/regexp.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4665,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/regnodes.h',
+  PACKID = 'binlib',
+  DATE = 031103,
+  TIME = 0004,
+  SIZE = 9687,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/scope.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 12961,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/sv.h',
+  PACKID = 'binlib',
+  DATE = 031018,
+  TIME = 1533,
+  SIZE = 42720,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/thrdvar.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0912,
+  SIZE = 10339,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/thread.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0912,
+  SIZE = 13265,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/uconfig.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0912,
+  SIZE = 134466,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/unixish.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0912,
+  SIZE = 4416,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/utf8.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0912,
+  SIZE = 9165,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/utfebcdic.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0912,
+  SIZE = 26951,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/util.h',
+  PACKID = 'binlib',
+  DATE = 030930,
+  TIME = 0912,
+  SIZE = 1420,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/CORE/warnings.h',
+  PACKID = 'binlib',
+  DATE = 031103,
+  TIME = 0004,
+  SIZE = 5718,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/B/B.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1813,
+  SIZE = 105364,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/B/C/C.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1813,
+  SIZE = 2054,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/ByteLoader/ByteLoader.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1813,
+  SIZE = 17648,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Cwd/Cwd.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1814,
+  SIZE = 3350,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/DB_File/DB_File.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1814,
+  SIZE = 39790,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Devel/DProf/DProf.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1814,
+  SIZE = 10918,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Devel/PPPort/PPPort.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1814,
+  SIZE = 9228,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Devel/Peek/Peek.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1814,
+  SIZE = 10344,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/DynaLoader/DynaLoader.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1821,
+  SIZE = 5328,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/DynaLoader/DynaLoader.lib',
+  PACKID = 'binlib',
+  DATE = 031108,
+  TIME = 1242,
+  SIZE = 5632,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/Byte/Byte.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1815,
+  SIZE = 182212,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/CN/CN.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1815,
+  SIZE = 1080544,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/EBCDIC/EBCDIC.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1815,
+  SIZE = 17674,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/Encode.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1816,
+  SIZE = 23650,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/JP/JP.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1815,
+  SIZE = 1303056,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/KR/KR.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1816,
+  SIZE = 1204064,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/Symbol/Symbol.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1816,
+  SIZE = 25700,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/TW/TW.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1816,
+  SIZE = 1054858,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/Unicode/Unicode.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1816,
+  SIZE = 10556,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Fcntl/Fcntl.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1816,
+  SIZE = 10486,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/File/Glob/Glob.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1816,
+  SIZE = 10180,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Filter/Util/Call/Call.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1817,
+  SIZE = 6290,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/IO/IO.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1817,
+  SIZE = 12230,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/List/Util/Util.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1817,
+  SIZE = 14484,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/DLL/DLL.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1818,
+  SIZE = 17858,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/ExtAttr/ExtAttr.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1817,
+  SIZE = 18854,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/PrfDB/PrfDB.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1817,
+  SIZE = 10544,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/Process/Const/Const.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1818,
+  SIZE = 38718,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/Process/Process.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1818,
+  SIZE = 96340,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/REXX/REXX.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1818,
+  SIZE = 13400,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Opcode/Opcode.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1818,
+  SIZE = 14160,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/POSIX.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1818,
+  SIZE = 93358,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/PerlIO/encoding/encoding.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1818,
+  SIZE = 14502,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/PerlIO/scalar/scalar.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1819,
+  SIZE = 4652,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/PerlIO/via/via.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1819,
+  SIZE = 10470,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/SDBM_File/SDBM_File.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1819,
+  SIZE = 22642,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Socket/Socket.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1819,
+  SIZE = 19288,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/Storable.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1819,
+  SIZE = 57408,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Sys/Hostname/Hostname.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1819,
+  SIZE = 1946,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Sys/Syslog/Syslog.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1819,
+  SIZE = 8482,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Unicode/Normalize/Normalize.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1820,
+  SIZE = 253998,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/XS/APItest/APItest.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1820,
+  SIZE = 4354,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/XS/Typemap/Typemap.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1820,
+  SIZE = 22318,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/attrs/attrs.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1820,
+  SIZE = 3206,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/re/re.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1821,
+  SIZE = 141326,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/threads/shared/shared.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1821,
+  SIZE = 1242,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/threads/threads.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1821,
+  SIZE = 1226,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Array/RefElem/RefElem.a',
+  PACKID = 'binlib',
+  DATE = 031216,
+  TIME = 2047,
+  SIZE = 3064,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Compress/Bzip2/Bzip2.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1420,
+  SIZE = 4162,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Compress/Zlib/Zlib.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1420,
+  SIZE = 85508,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Curses/Curses.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1620,
+  SIZE = 176242,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/DBD/SQLite/SQLite.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1641,
+  SIZE = 376106,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/DBI/DBI.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1421,
+  SIZE = 82224,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Digest/MD2/MD2.a',
+  PACKID = 'binlib',
+  DATE = 031216,
+  TIME = 2038,
+  SIZE = 7900,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Digest/SHA1/SHA1.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1422,
+  SIZE = 11478,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/File/RsyncP/Digest/Digest.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1423,
+  SIZE = 12836,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/File/RsyncP/FileList/FileList.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1423,
+  SIZE = 17424,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/GD/GD.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1423,
+  SIZE = 78452,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/HTML/Parser/Parser.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1423,
+  SIZE = 26730,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/OS2/Attrib/Attrib.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1424,
+  SIZE = 4104,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/OS2/Focus/Focus.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1424,
+  SIZE = 7580,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/OS2/Proc/Proc.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1424,
+  SIZE = 4600,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/OS2/WinObject/WinObject.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1425,
+  SIZE = 44450,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/PadWalker/PadWalker.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1425,
+  SIZE = 4664,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/SOM/SOM.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 2307,
+  SIZE = 81428,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Term/ReadKey/ReadKey.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1425,
+  SIZE = 16584,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Text/CSV_XS/CSV_XS.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1425,
+  SIZE = 10530,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Unicode/String/String.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1426,
+  SIZE = 7956,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/XML/LibXML/Common/Common.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1426,
+  SIZE = 5032,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/XML/LibXML/LibXML.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1426,
+  SIZE = 207408,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/XML/LibXSLT/LibXSLT.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1456,
+  SIZE = 25038,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/XML/Parser/Expat/Expat.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1427,
+  SIZE = 55338,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/XML/Sablotron/Sablotron.a',
+  PACKID = 'binlib',
+  DATE = 031215,
+  TIME = 1427,
+  SIZE = 151422,
+  PWSPATH = 'FILE'
+
+
+* The following files need a special treatment since their names
+* would conflict with -j extraction from .zip.
+
+FILE
+  PWS = '5.8.2/os2/auto/B/C/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/B/C/extralibs.ld',
+  DATE = 031108,
+  TIME = 1341,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/B/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/B/extralibs.ld',
+  DATE = 031108,
+  TIME = 1341,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/ByteLoader/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/ByteLoader/extralibs.ld',
+  DATE = 031108,
+  TIME = 1341,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Cwd/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Cwd/extralibs.ld',
+  DATE = 031108,
+  TIME = 1342,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/DB_File/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/DB_File/extralibs.ld',
+  DATE = 031108,
+  TIME = 1342,
+  SIZE = 6,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Data/Dumper/Dumper.a',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Data/Dumper/Dumper.a',
+  DATE = 031215,
+  TIME = 1814,
+  SIZE = 20880,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Data/Dumper/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Data/Dumper/extralibs.ld',
+  DATE = 031108,
+  TIME = 1342,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Devel/DProf/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Devel/DProf/extralibs.ld',
+  DATE = 031108,
+  TIME = 1342,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Devel/PPPort/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Devel/PPPort/extralibs.ld',
+  DATE = 031108,
+  TIME = 1346,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Devel/Peek/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Devel/Peek/extralibs.ld',
+  DATE = 031108,
+  TIME = 1346,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Digest/MD5/MD5.a',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Digest/MD5/MD5.a',
+  DATE = 031215,
+  TIME = 1814,
+  SIZE = 8990,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Digest/MD5/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Digest/MD5/extralibs.ld',
+  DATE = 031108,
+  TIME = 1346,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/DynaLoader/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/DynaLoader/extralibs.ld',
+  DATE = 031108,
+  TIME = 1352,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/Byte/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Encode/Byte/extralibs.ld',
+  DATE = 031108,
+  TIME = 1346,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/CN/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Encode/CN/extralibs.ld',
+  DATE = 031108,
+  TIME = 1346,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/EBCDIC/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Encode/EBCDIC/extralibs.ld',
+  DATE = 031108,
+  TIME = 1346,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/JP/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Encode/JP/extralibs.ld',
+  DATE = 031108,
+  TIME = 1347,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/KR/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Encode/KR/extralibs.ld',
+  DATE = 031108,
+  TIME = 1347,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/Symbol/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Encode/Symbol/extralibs.ld',
+  DATE = 031108,
+  TIME = 1347,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/TW/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Encode/TW/extralibs.ld',
+  DATE = 031108,
+  TIME = 1347,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/Unicode/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Encode/Unicode/extralibs.ld',
+  DATE = 031108,
+  TIME = 1347,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Encode/extralibs.ld',
+  DATE = 031108,
+  TIME = 1347,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Fcntl/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Fcntl/extralibs.ld',
+  DATE = 031108,
+  TIME = 1348,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/File/Glob/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/File/Glob/extralibs.ld',
+  DATE = 031108,
+  TIME = 1348,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Filter/Util/Call/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Filter/Util/Call/extralibs.ld',
+  DATE = 031108,
+  TIME = 1348,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/IO/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/IO/extralibs.ld',
+  DATE = 031108,
+  TIME = 1348,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/List/Util/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/List/Util/extralibs.ld',
+  DATE = 031108,
+  TIME = 1348,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/MIME/Base64/Base64.a',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/MIME/Base64/Base64.a',
+  DATE = 031215,
+  TIME = 1817,
+  SIZE = 6274,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/MIME/Base64/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/MIME/Base64/extralibs.ld',
+  DATE = 031108,
+  TIME = 1348,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/DLL/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/OS2/DLL/extralibs.ld',
+  DATE = 031108,
+  TIME = 1349,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/ExtAttr/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/OS2/ExtAttr/extralibs.ld',
+  DATE = 031108,
+  TIME = 1348,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/PrfDB/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/OS2/PrfDB/extralibs.ld',
+  DATE = 031108,
+  TIME = 1348,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/Process/Const/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/OS2/Process/Const/extralibs.ld',
+  DATE = 031108,
+  TIME = 1349,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/Process/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/OS2/Process/extralibs.ld',
+  DATE = 031108,
+  TIME = 1349,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/REXX/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/OS2/REXX/extralibs.ld',
+  DATE = 031108,
+  TIME = 1349,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Opcode/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Opcode/extralibs.ld',
+  DATE = 031108,
+  TIME = 1349,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/POSIX/extralibs.ld',
+  DATE = 031108,
+  TIME = 1349,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/PerlIO/encoding/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/PerlIO/encoding/extralibs.ld',
+  DATE = 031108,
+  TIME = 1349,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/PerlIO/scalar/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/PerlIO/scalar/extralibs.ld',
+  DATE = 031108,
+  TIME = 1349,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/PerlIO/via/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/PerlIO/via/extralibs.ld',
+  DATE = 031108,
+  TIME = 1350,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/SDBM_File/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/SDBM_File/extralibs.ld',
+  DATE = 031108,
+  TIME = 1350,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Socket/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Socket/extralibs.ld',
+  DATE = 031108,
+  TIME = 1350,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Storable/extralibs.ld',
+  DATE = 031108,
+  TIME = 1350,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Sys/Hostname/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Sys/Hostname/extralibs.ld',
+  DATE = 031108,
+  TIME = 1350,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Sys/Syslog/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Sys/Syslog/extralibs.ld',
+  DATE = 031108,
+  TIME = 1350,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Time/HiRes/HiRes.a',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Time/HiRes/HiRes.a',
+  DATE = 031215,
+  TIME = 1820,
+  SIZE = 6930,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Time/HiRes/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Time/HiRes/extralibs.ld',
+  DATE = 031108,
+  TIME = 1350,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Unicode/Normalize/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Unicode/Normalize/extralibs.ld',
+  DATE = 031108,
+  TIME = 1351,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/XS/APItest/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/XS/APItest/extralibs.ld',
+  DATE = 031108,
+  TIME = 1351,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/XS/Typemap/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/XS/Typemap/extralibs.ld',
+  DATE = 031108,
+  TIME = 1351,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/attrs/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/attrs/extralibs.ld',
+  DATE = 031108,
+  TIME = 1351,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/re/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/re/extralibs.ld',
+  DATE = 031108,
+  TIME = 1351,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/sdbm/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/sdbm/extralibs.ld',
+  DATE = 031108,
+  TIME = 1350,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/threads/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/threads/extralibs.ld',
+  DATE = 031108,
+  TIME = 1351,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/threads/shared/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/threads/shared/extralibs.ld',
+  DATE = 031108,
+  TIME = 1351,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Array/RefElem/extralibs.all',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Array/RefElem/extralibs.all',
+  DATE = 031216,
+  TIME = 2047,
+  SIZE = 512,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Array/RefElem/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Array/RefElem/extralibs.ld',
+  DATE = 031216,
+  TIME = 2047,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Compress/Bzip2/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Compress/Bzip2/extralibs.ld',
+  DATE = 031215,
+  TIME = 1420,
+  SIZE = 7,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Compress/Zlib/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Compress/Zlib/extralibs.ld',
+  DATE = 031215,
+  TIME = 1420,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Crypt/SSLeay/SSLeay.a',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Crypt/SSLeay/SSLeay.a',
+  DATE = 031215,
+  TIME = 1420,
+  SIZE = 21204,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Crypt/SSLeay/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Crypt/SSLeay/extralibs.ld',
+  DATE = 031215,
+  TIME = 1420,
+  SIZE = 50,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Curses/extralibs.all',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Curses/extralibs.all',
+  DATE = 031215,
+  TIME = 1621,
+  SIZE = 508,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Curses/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Curses/extralibs.ld',
+  DATE = 031215,
+  TIME = 1620,
+  SIZE = 73,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/DBD/SQLite/extralibs.all',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/DBD/SQLite/extralibs.all',
+  DATE = 031215,
+  TIME = 1641,
+  SIZE = 508,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/DBD/SQLite/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/DBD/SQLite/extralibs.ld',
+  DATE = 031215,
+  TIME = 1421,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/DBI/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/DBI/extralibs.ld',
+  DATE = 031215,
+  TIME = 1421,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Data/Dumper/Dumper.a',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Data/Dumper/Dumper.a',
+  DATE = 031215,
+  TIME = 1422,
+  SIZE = 20880,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Data/Dumper/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Data/Dumper/extralibs.ld',
+  DATE = 031215,
+  TIME = 1422,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Digest/MD2/extralibs.all',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Digest/MD2/extralibs.all',
+  DATE = 031216,
+  TIME = 2038,
+  SIZE = 510,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Digest/MD2/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Digest/MD2/extralibs.ld',
+  DATE = 031216,
+  TIME = 2038,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Digest/MD5/MD5.a',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Digest/MD5/MD5.a',
+  DATE = 031215,
+  TIME = 1422,
+  SIZE = 10008,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Digest/MD5/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Digest/MD5/extralibs.ld',
+  DATE = 031215,
+  TIME = 1422,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Digest/SHA1/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Digest/SHA1/extralibs.ld',
+  DATE = 031215,
+  TIME = 1422,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/File/RsyncP/Digest/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/File/RsyncP/Digest/extralibs.ld',
+  DATE = 031215,
+  TIME = 1423,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/File/RsyncP/FileList/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/File/RsyncP/FileList/extralibs.ld',
+  DATE = 031215,
+  TIME = 1423,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/GD/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/GD/extralibs.ld',
+  DATE = 031215,
+  TIME = 1423,
+  SIZE = 40,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/HTML/Parser/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/HTML/Parser/extralibs.ld',
+  DATE = 031215,
+  TIME = 1423,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/MIME/Base64/Base64.a',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/MIME/Base64/Base64.a',
+  DATE = 031215,
+  TIME = 1423,
+  SIZE = 6274,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/MIME/Base64/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/MIME/Base64/extralibs.ld',
+  DATE = 031215,
+  TIME = 1423,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Net/SSLeay/SSLeay.a',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Net/SSLeay/SSLeay.a',
+  DATE = 031215,
+  TIME = 1424,
+  SIZE = 185108,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Net/SSLeay/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Net/SSLeay/extralibs.ld',
+  DATE = 031215,
+  TIME = 1424,
+  SIZE = 20,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/OS2/Attrib/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/OS2/Attrib/extralibs.ld',
+  DATE = 031215,
+  TIME = 1424,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/OS2/Focus/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/OS2/Focus/extralibs.ld',
+  DATE = 031215,
+  TIME = 1424,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/OS2/Proc/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/OS2/Proc/extralibs.ld',
+  DATE = 031215,
+  TIME = 1424,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/OS2/WinObject/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/OS2/WinObject/extralibs.ld',
+  DATE = 031215,
+  TIME = 1425,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/PadWalker/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/PadWalker/extralibs.ld',
+  DATE = 031215,
+  TIME = 1425,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/SOM/extralibs.all',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/SOM/extralibs.all',
+  DATE = 031215,
+  TIME = 1718,
+  SIZE = 508,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/SOM/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/SOM/extralibs.ld',
+  DATE = 031215,
+  TIME = 1425,
+  SIZE = 30,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Term/ReadKey/extralibs.all',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Term/ReadKey/extralibs.all',
+  DATE = 031204,
+  TIME = 1515,
+  SIZE = 106,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Term/ReadKey/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Term/ReadKey/extralibs.ld',
+  DATE = 031204,
+  TIME = 1515,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Text/CSV_XS/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Text/CSV_XS/extralibs.ld',
+  DATE = 031215,
+  TIME = 1425,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Time/HiRes/HiRes.a',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Time/HiRes/HiRes.a',
+  DATE = 031215,
+  TIME = 1426,
+  SIZE = 6904,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Time/HiRes/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Time/HiRes/extralibs.ld',
+  DATE = 031215,
+  TIME = 1426,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/Unicode/String/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/Unicode/String/extralibs.ld',
+  DATE = 031215,
+  TIME = 1426,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/XML/LibXML/Common/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/XML/LibXML/Common/extralibs.ld',
+  DATE = 031215,
+  TIME = 1426,
+  SIZE = 29,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/XML/LibXML/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/XML/LibXML/extralibs.ld',
+  DATE = 031215,
+  TIME = 1426,
+  SIZE = 29,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/XML/LibXSLT/extralibs.all',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/XML/LibXSLT/extralibs.all',
+  DATE = 031215,
+  TIME = 1458,
+  SIZE = 435,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/XML/LibXSLT/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/XML/LibXSLT/extralibs.ld',
+  DATE = 031204,
+  TIME = 1759,
+  SIZE = 61,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/XML/Parser/Expat/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/XML/Parser/Expat/extralibs.ld',
+  DATE = 031215,
+  TIME = 1427,
+  SIZE = 9,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/XML/Sablotron/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/XML/Sablotron/extralibs.ld',
+  DATE = 031215,
+  TIME = 1427,
+  SIZE = 18,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/dummy/extralibs.all',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/dummy/extralibs.all',
+  DATE = 031215,
+  TIME = 1428,
+  SIZE = 437,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = 'site_perl/5.8.2/os2/auto/zlib/extralibs.ld',
+  SOURCE = 'DRIVE: perl_blb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% site_perl/5.8.2/os2/auto/zlib/extralibs.ld',
+  DATE = 031204,
+  TIME = 0225,
+  SIZE = 2,
+  PWSPATH = 'FILE'
+

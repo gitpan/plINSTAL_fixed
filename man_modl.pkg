@@ -1,0 +1,5352 @@
+
+PACKFILE
+  ID = 'modman',
+  SOURCE = 'DRIVE: perl_mam.zip',
+  * -j circumvents a limitation of SI
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR%'
+
+FILE
+  PWS = 'man3/API_13746.3',
+  PACKID = 'modman',
+  DATE = 011230,
+  TIME = 2303,
+  SIZE = 208535,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/API_13746x.3',
+  PACKID = 'modman',
+  DATE = 011231,
+  TIME = 1828,
+  SIZE = 0,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/AnyDBM_File.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6564,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Archive.Tar.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0117,
+  SIZE = 16183,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Attribute.Handlers.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 31076,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/AutoLoader.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 11249,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/AutoSplit.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 8443,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/B.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 25185,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/B.Asmdata.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5631,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/B.Assembler.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4617,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/B.Bblock.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5016,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/B.Bytecode.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5957,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/B.C.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 8566,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/B.CC.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 10817,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/B.Concise.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 19520,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/B.Debug.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4232,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/B.Deparse.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 20509,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/B.Disassembler.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4223,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/B.Lint.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7991,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/B.Showlex.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4382,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/B.Stackobj.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4202,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/B.Stash.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 3949,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/B.Terse.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5244,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/B.Xref.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7214,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Benchmark.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 18349,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Bundle.DBD.CSV.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0321,
+  SIZE = 4903,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Bundle.DBI.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0319,
+  SIZE = 5686,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Bundle.LWP.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 5276,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ByteLoader.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4641,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/C.Scan.3',
+  PACKID = 'modman',
+  DATE = 010714,
+  TIME = 0013,
+  SIZE = 9037,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CGI.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 146022,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CGI.Apache.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4266,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CGI.Base.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0154,
+  SIZE = 16398,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CGI.BasePlus.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0154,
+  SIZE = 5270,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CGI.Carp.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 14287,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CGI.Cookie.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 13447,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CGI.Fast.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 10090,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CGI.Form.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0154,
+  SIZE = 45264,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CGI.MiniSvr.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0154,
+  SIZE = 17013,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CGI.Pretty.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6988,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CGI.Push.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 12143,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CGI.Request.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0154,
+  SIZE = 19271,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CGI.Switch.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4279,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CGI.Util.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4745,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CPAN.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 54292,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CPAN.FirstTime.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4192,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CPAN.Nox.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4432,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/CPAN.WAIT.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0124,
+  SIZE = 8720,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Carp.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7358,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Carp.Heavy.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 3971,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Class.ISA.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 9150,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Class.Struct.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 20116,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Compress.Zlib.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 1944,
+  SIZE = 26277,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Config.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 305879,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Curses.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0339,
+  SIZE = 33443,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Cwd.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7833,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DB.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 12207,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DBD.ADO.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0146,
+  SIZE = 11527,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DBD.CSV.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0321,
+  SIZE = 24857,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DBD.File.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0321,
+  SIZE = 9574,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DBD.Multiplex.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0146,
+  SIZE = 4740,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DBD.Proxy.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0319,
+  SIZE = 13766,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DBD.RAM.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0148,
+  SIZE = 51241,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DBI.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0319,
+  SIZE = 179453,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DBI.DBD.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0319,
+  SIZE = 70812,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DBI.FAQ.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0319,
+  SIZE = 46249,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DBI.Format.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0319,
+  SIZE = 8357,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DBI.ProxyServer.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0319,
+  SIZE = 14698,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DBI.Shell.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0319,
+  SIZE = 10929,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DBI.W32ODBC.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0319,
+  SIZE = 5294,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DBIx.XML_RDB.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0352,
+  SIZE = 8480,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DB_File.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 67291,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Data.Dumper.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 27117,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Data.Flow.3',
+  PACKID = 'modman',
+  DATE = 981111,
+  TIME = 1826,
+  SIZE = 9633,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Data.Grove.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2112,
+  SIZE = 7535,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Data.Grove.Parent.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2112,
+  SIZE = 7276,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Data.Grove.Visitor.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2112,
+  SIZE = 7670,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Date.Format.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0317,
+  SIZE = 9413,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Date.Manip.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0155,
+  SIZE = 121675,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Date.Parse.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0317,
+  SIZE = 7677,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Devel.DProf.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 10534,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Devel.PPPort.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 8220,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Devel.Peek.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 22308,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Devel.SelfStubber.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6935,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Digest.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 9354,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Digest.HMAC.3',
+  PACKID = 'modman',
+  DATE = 981111,
+  TIME = 1832,
+  SIZE = 5617,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Digest.HMAC_MD5.3',
+  PACKID = 'modman',
+  DATE = 981111,
+  TIME = 1832,
+  SIZE = 5261,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Digest.HMAC_SHA1.3',
+  PACKID = 'modman',
+  DATE = 981111,
+  TIME = 1832,
+  SIZE = 5275,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Digest.MD2.3',
+  PACKID = 'modman',
+  DATE = 981111,
+  TIME = 1832,
+  SIZE = 5766,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Digest.MD5.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 14765,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DirHandle.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5045,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Dumpvalue.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 9259,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/DynaLoader.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 20111,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 23849,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.Alias.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7122,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.Byte.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7224,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.CJKConstants.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4003,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.CN.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6125,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.CN.HZ.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 3970,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.Config.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 3966,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.EBCDIC.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4693,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.Encoder.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 8633,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.Encoding.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 11511,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.Guess.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 9952,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.JP.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6880,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.JP.H2Z.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 3983,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.JP.JIS7.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 3976,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.KR.2022_KR.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 3985,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.KR.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5916,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.MIME.Header.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5748,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.PerlIO.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 10837,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.Supported.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 38786,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.Symbol.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4675,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.TW.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6478,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.Unicode.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 11902,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Encode.Unicode.UTF7.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5385,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/English.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5231,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Env.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6336,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Errno.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5610,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Exporter.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 17750,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Exporter.Heavy.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4095,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.Command.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6542,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.Command.MM.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6952,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.Constant.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 20303,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.Embed.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 11387,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.Install.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 8507,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.Installed.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7602,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.Liblist.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 14711,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MM.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4566,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MM_Any.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 18743,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MM_BeOS.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4523,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MM_Cygwin.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4665,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MM_DOS.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4742,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MM_MacOS.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7053,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MM_NW5.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5027,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MM_OS2.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4614,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MM_UWIN.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4777,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MM_Unix.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 25788,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MM_VMS.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 15831,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MM_Win32.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6924,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MM_Win95.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5379,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MY.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4502,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MakeMaker.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 60091,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MakeMaker.FAQ.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 12451,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MakeMaker.Tutorial.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 8977,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MakeMaker.bytes.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4535,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.MakeMaker.vmsish.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4479,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.Manifest.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 12082,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.Miniperl.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4942,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.Mkbootstrap.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5182,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.Mksymlists.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 8489,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.Packlist.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 8663,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ExtUtils.testlib.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4404,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/FAQ.3',
+  PACKID = 'modman',
+  DATE = 981111,
+  TIME = 1841,
+  SIZE = 11705,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Fatal.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5633,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Fcntl.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6239,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.Basename.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 9067,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.CheckTree.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6135,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.Compare.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5312,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.Copy.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 11883,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.CounterFile.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0148,
+  SIZE = 7102,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.DosGlob.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 9295,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.Find.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 19501,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.Glob.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 16431,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.Listing.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 6968,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.Path.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7464,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.Spec.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 14196,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.Spec.Cygwin.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5134,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.Spec.Epoc.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4753,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.Spec.Functions.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5314,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.Spec.Mac.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 20283,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.Spec.OS2.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4625,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.Spec.Unix.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 10719,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.Spec.VMS.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 8131,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.Spec.Win32.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7295,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.Temp.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 28926,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/File.stat.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6360,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/FileCache.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6435,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/FileHandle.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 9707,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Filter.Simple.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 22913,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Filter.Util.Call.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 18416,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/FindBin.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6759,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Font.AFM.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0148,
+  SIZE = 9941,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/FreezeThaw.3',
+  PACKID = 'modman',
+  DATE = 020328,
+  TIME = 2143,
+  SIZE = 13293,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/GD.3',
+  PACKID = 'modman',
+  DATE = 981111,
+  TIME = 1834,
+  SIZE = 40616,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Getopt.Long.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 46504,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Getopt.Std.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7595,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.AsSubs.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0149,
+  SIZE = 6890,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.Element.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0149,
+  SIZE = 60762,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.Element.traverse.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0149,
+  SIZE = 15715,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.Entities.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0138,
+  SIZE = 6431,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.Filter.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0138,
+  SIZE = 7064,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.Form.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 10659,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.HeadParser.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0138,
+  SIZE = 8002,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.LinkExtor.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0138,
+  SIZE = 7907,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.Parse.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0149,
+  SIZE = 7843,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.Parser.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0138,
+  SIZE = 42025,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.PullParser.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0138,
+  SIZE = 8379,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.Tagset.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0125,
+  SIZE = 11648,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.TokeParser.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0138,
+  SIZE = 10519,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.Tree.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0149,
+  SIZE = 7439,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.Tree.AboutObjects.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0149,
+  SIZE = 38605,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.Tree.AboutTrees.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0149,
+  SIZE = 58729,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.Tree.Scanning.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0149,
+  SIZE = 34518,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTML.TreeBuilder.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0149,
+  SIZE = 22198,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTTP.Cookies.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 11375,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTTP.Daemon.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 15047,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTTP.Date.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 9630,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTTP.Headers.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 16961,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTTP.Headers.Util.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 7885,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTTP.Message.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 7872,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTTP.Negotiate.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 12696,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTTP.Request.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 7489,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTTP.Request.Common.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 10931,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTTP.Response.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 10430,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/HTTP.Status.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 9502,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Hash.Util.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 8044,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/I18N.Collate.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6263,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/I18N.LangTags.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 22989,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/I18N.LangTags.List.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 46376,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5088,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.AtomicFile.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0407,
+  SIZE = 6569,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.Dir.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7296,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.File.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7447,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.Handle.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 14307,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.InnerFile.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0407,
+  SIZE = 6911,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.Lines.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0407,
+  SIZE = 6127,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.Pipe.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6903,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.Poll.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6392,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.Scalar.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0407,
+  SIZE = 15447,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.ScalarArray.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0407,
+  SIZE = 14355,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.Seekable.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6792,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.Select.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 9113,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.Socket.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 10108,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.Socket.INET.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 9813,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.Socket.UNIX.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6077,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.String.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 8599,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.Stringy.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0407,
+  SIZE = 19145,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.Wrap.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0407,
+  SIZE = 8309,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IO.WrapTie.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0407,
+  SIZE = 16752,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IPC.Open2.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7478,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/IPC.Open3.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7533,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Image.Info.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2252,
+  SIZE = 12544,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Image.Info.BMP.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 6635,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Image.Info.SVG.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 6389,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Image.Info.XBM.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 6008,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Image.Info.XPM.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 7058,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Image.Size.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0322,
+  SIZE = 17323,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/LWP.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 27137,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/LWP.ConnCache.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 9737,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/LWP.Debug.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 6655,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/LWP.MediaTypes.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 7420,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/LWP.MemberMixin.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 5196,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/LWP.Protocol.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 8452,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/LWP.RobotUA.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 7579,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/LWP.Simple.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 8911,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/LWP.UserAgent.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 23483,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/List.Util.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 10437,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Locale.Constants.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5696,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Locale.Country.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 14478,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Locale.Currency.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 9410,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Locale.Language.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 8489,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Locale.Maketext.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 59467,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Locale.Maketext.TPJ13.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 43528,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Locale.Script.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 11646,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MD5.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0102,
+  SIZE = 5509,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Base64.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 8421,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Body.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 17781,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Decoder.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 18555,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Decoder.Base64.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 5757,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Decoder.Binary.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 5549,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Decoder.Gzip64.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 5819,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Decoder.NBit.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 7947,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Decoder.QuotedPrint.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 5749,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Decoder.UU.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 5382,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Entity.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 53437,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Field.ConTraEnc.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 5393,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Field.ContDisp.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 5223,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Field.ContType.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 8337,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Field.ParamVal.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 9084,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Head.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 26485,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Lite.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0326,
+  SIZE = 73652,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Lite.HTML.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0327,
+  SIZE = 16515,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Parser.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 37708,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Parser.Filer.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 20883,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Parser.Reader.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 5449,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Parser.Results.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 6487,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.QuotedPrint.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6936,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Tools.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 72755,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Type.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0333,
+  SIZE = 10090,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Types.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0333,
+  SIZE = 9058,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.WordDecoder.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 12412,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/MIME.Words.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0408,
+  SIZE = 10782,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Mail.Address.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0328,
+  SIZE = 7085,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Mail.Cap.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0327,
+  SIZE = 7968,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Mail.Field.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0327,
+  SIZE = 8882,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Mail.Field.AddrList.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0327,
+  SIZE = 5648,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Mail.Filter.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0327,
+  SIZE = 7259,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Mail.Header.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0327,
+  SIZE = 12289,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Mail.Internet.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0327,
+  SIZE = 11610,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Mail.Mailer.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0327,
+  SIZE = 8356,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Mail.Send.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0327,
+  SIZE = 5759,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Mail.Util.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0327,
+  SIZE = 5930,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Math.BigFloat.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 25431,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Math.BigInt.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 73578,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Math.BigInt.Calc.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 11543,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Math.BigInt.Scalar.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4647,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Math.BigRat.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 13187,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Math.Complex.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 23851,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Math.Trig.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 17806,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Memoize.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 34076,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Memoize.AnyDBM_File.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4071,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Memoize.Expire.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 13271,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Memoize.ExpireFile.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4058,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Memoize.ExpireTest.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4445,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Memoize.NDBM_File.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4063,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Memoize.SDBM_File.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4063,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Memoize.Storable.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 4047,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 69228,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.Base.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 4868,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.Compat.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 9428,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.Cookbook.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 7621,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.PPMMaker.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 4597,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.Platform.Amiga.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 4397,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.Platform.Default.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 4402,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.Platform.EBCDIC.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 4401,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.Platform.MPEiX.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 4397,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.Platform.MacOS.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 5326,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.Platform.RiscOS.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 4401,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.Platform.Unix.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 4393,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.Platform.VMS.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 4880,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.Platform.VOS.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 4389,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.Platform.Windows.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 4815,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.Platform.cygwin.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 4414,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.Platform.darwin.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 4405,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Module.Build.Platform.os2.3',
+  PACKID = 'modman',
+  DATE = 031214,
+  TIME = 1821,
+  SIZE = 4397,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/NEXT.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 18768,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.Cmd.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 10348,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.Config.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 9286,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.Domain.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5182,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.DummyInetd.3',
+  PACKID = 'modman',
+  DATE = 981111,
+  TIME = 1841,
+  SIZE = 6072,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.FTP.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 26116,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.HTTP.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 13088,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.HTTP.NB.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 5864,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.NNTP.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 21211,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.Netrc.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 8230,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.PH.3',
+  PACKID = 'modman',
+  DATE = 981111,
+  TIME = 1841,
+  SIZE = 15980,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.POP3.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 10881,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.Ping.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 20660,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.SMTP.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 13569,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.SNPP.3',
+  PACKID = 'modman',
+  DATE = 981111,
+  TIME = 1841,
+  SIZE = 7762,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.Telnet.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0117,
+  SIZE = 55459,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.Time.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5949,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.hostent.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7027,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.libnetFAQ.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 17149,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.netent.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7852,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.protoent.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6144,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Net.servent.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 6607,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/O.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 7643,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/OS2.Attrib.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0143,
+  SIZE = 7046,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/OS2.DLL.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 10022,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/OS2.ExtAttr.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5963,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/OS2.Focus.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0143,
+  SIZE = 5790,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/OS2.PrfDB.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 8399,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/OS2.Proc.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0144,
+  SIZE = 4895,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/OS2.Process.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 46726,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/OS2.Process.Const.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 5088,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/OS2.REXX.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 16636,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/OS2.WinObject.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0144,
+  SIZE = 8127,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Opcode.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2050,
+  SIZE = 20449,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/POSIX.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 78090,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/PerlIO.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 14198,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/PerlIO.encoding.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4829,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/PerlIO.scalar.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4990,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/PerlIO.via.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 12689,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/PerlIO.via.QuotedPrint.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5154,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Checker.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 19721,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Find.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 9698,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Html.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 8601,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.InputObjects.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 18029,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.LaTeX.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 14414,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Man.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 16459,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.ParseLink.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 7062,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.ParseUtils.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 14322,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Parser.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 45431,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Perldoc.ToChecker.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5128,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Perldoc.ToMan.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5289,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Perldoc.ToNroff.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5293,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Perldoc.ToPod.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5000,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Perldoc.ToRtf.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5622,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Perldoc.ToText.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5173,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Perldoc.ToTk.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4554,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Perldoc.ToXml.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5057,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.PlainText.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 9260,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Plainer.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4695,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Select.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 15332,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Text.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 11478,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Text.Color.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5557,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Text.Overstrike.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 6124,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Text.Termcap.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5679,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Pod.Usage.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 18413,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/SDBM_File.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 6963,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/SQL.Eval.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0320,
+  SIZE = 11711,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/SQL.Statement.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0320,
+  SIZE = 32008,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Safe.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 16378,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Scalar.Util.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 9915,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Search.Dict.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5314,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/SelectSaver.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4802,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/SelfLoader.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 13581,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Shell.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 6086,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Socket.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 11596,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Storable.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 34190,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Switch.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 20410,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Symbol.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 7190,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Sys.Hostname.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4742,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Sys.Syslog.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 9085,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Term.ANSIColor.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 17070,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Term.Cap.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 11689,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Term.Complete.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5114,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Term.ReadKey.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0309,
+  SIZE = 12527,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Term.ReadLine.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 11091,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Test.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 22572,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Test.Builder.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 18139,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Test.Harness.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 20693,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Test.Harness.Assert.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4630,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Test.Harness.Iterator.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4440,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Test.Harness.Straps.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 12330,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Test.More.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 29485,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Test.Simple.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 10926,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Test.Tutorial.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 26336,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Text.Abbrev.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4615,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Text.Balanced.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 56590,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Text.CSV_XS.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0319,
+  SIZE = 14992,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Text.ParseWords.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 7799,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Text.Soundex.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 6949,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Text.Tabs.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4832,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Text.Wrap.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 8652,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Thread.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 14587,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Thread.Queue.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5855,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Thread.Semaphore.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 6526,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Tie.Array.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 10210,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Tie.File.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 30928,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Tie.Handle.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 7422,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Tie.Hash.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 10565,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Tie.Memoize.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 7100,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Tie.RefHash.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5857,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Tie.Scalar.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 6697,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Tie.SubstrHash.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5441,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Time.CTime.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0139,
+  SIZE = 6958,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Time.DaysInMonth.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0139,
+  SIZE = 5046,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Time.HiRes.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 18861,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Time.JulianDay.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0139,
+  SIZE = 5998,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Time.Local.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 9299,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Time.ParseDate.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0139,
+  SIZE = 9729,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Time.Timezone.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0139,
+  SIZE = 5604,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Time.Zone.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0317,
+  SIZE = 5583,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Time.gmtime.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5903,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Time.localtime.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5695,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Time.tm.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4468,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/UNIVERSAL.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 9099,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/URI.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0358,
+  SIZE = 27739,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/URI.Escape.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0358,
+  SIZE = 8224,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/URI.Heuristic.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0125,
+  SIZE = 7263,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/URI.URL.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0125,
+  SIZE = 7018,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/URI.WithBase.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0358,
+  SIZE = 5729,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/URI.data.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0125,
+  SIZE = 6437,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/URI.file.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0125,
+  SIZE = 11443,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/URI.ldap.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0125,
+  SIZE = 7512,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Unicode.CharName.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0406,
+  SIZE = 5638,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Unicode.Collate.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 31842,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Unicode.Normalize.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 17613,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Unicode.String.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0406,
+  SIZE = 18024,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Unicode.UCD.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 17825,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/User.grent.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 6124,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/User.pwent.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 9411,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/WWW.RobotRules.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 8889,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/WWW.RobotRules.AnyDBM_File.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 5596,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Win32.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 22866,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/Win32.DBIODBC.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0319,
+  SIZE = 5189,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Catalog.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2103,
+  SIZE = 7548,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 25381,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.AttDef.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 5303,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.AttlistDecl.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 5907,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.Attr.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 7294,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.CDATASection.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 5777,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.CharacterData.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 7695,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.Comment.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 4908,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.DOMImplementation.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 5230,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.Document.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 11932,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.DocumentFragment.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 6625,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.DocumentType.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 10920,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.Element.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 10585,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.ElementDecl.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 5113,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.Entity.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 5845,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.EntityReference.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 5795,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.NamedNodeMap.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 8766,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.Node.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 21015,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.NodeList.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 5723,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.Notation.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 5633,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.Parser.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 7435,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.PerlSAX.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 5264,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.ProcessingInstruction.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 5447,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.Text.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 6546,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DOM.XMLDecl.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 5352,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.DT.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2104,
+  SIZE = 15305,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Dumper.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2104,
+  SIZE = 5867,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.ESISParser.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2112,
+  SIZE = 12330,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Encoding.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2101,
+  SIZE = 7499,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Handler.BuildDOM.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2114,
+  SIZE = 6111,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Handler.CanonXMLWriter.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2112,
+  SIZE = 5993,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Handler.Sample.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2112,
+  SIZE = 5577,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Handler.Subs.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2112,
+  SIZE = 7357,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Handler.XMLWriter.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2112,
+  SIZE = 9775,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Handler.YAWriter.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2207,
+  SIZE = 12956,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Node.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2104,
+  SIZE = 7075,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Parser.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 1941,
+  SIZE = 27424,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Parser.Expat.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 1941,
+  SIZE = 28937,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Parser.PerlSAX.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2112,
+  SIZE = 16826,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.PatAct.ActionTempl.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2112,
+  SIZE = 5578,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.PatAct.Amsterdam.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2112,
+  SIZE = 6924,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.PatAct.MatchName.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2112,
+  SIZE = 5781,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.PatAct.PatternTempl.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2112,
+  SIZE = 5331,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.PatAct.ToObjects.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2112,
+  SIZE = 13147,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Perl2SAX.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2112,
+  SIZE = 5479,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.QL.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2105,
+  SIZE = 11102,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.RSS.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2149,
+  SIZE = 20777,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.RegExp.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0403,
+  SIZE = 5507,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Registry.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0158,
+  SIZE = 5786,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.SAX2Perl.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2112,
+  SIZE = 10236,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Stream.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0406,
+  SIZE = 13514,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Stream.Hash.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0406,
+  SIZE = 4974,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Stream.Namespace.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0406,
+  SIZE = 6759,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Stream.Parser.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0406,
+  SIZE = 5186,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Stream.Parser.DTD.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0406,
+  SIZE = 5201,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Stream.Tree.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0406,
+  SIZE = 4974,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Twig.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2105,
+  SIZE = 94427,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.Writer.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0350,
+  SIZE = 18389,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.XPath.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2106,
+  SIZE = 14528,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.XPath.Boolean.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2106,
+  SIZE = 5102,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.XPath.Builder.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2106,
+  SIZE = 5420,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.XPath.Literal.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2106,
+  SIZE = 5482,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.XPath.Node.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2106,
+  SIZE = 6400,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.XPath.Node.Attribute.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2106,
+  SIZE = 5191,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.XPath.Node.Comment.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2106,
+  SIZE = 4812,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.XPath.Node.Element.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2106,
+  SIZE = 6930,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.XPath.Node.Namespace.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2106,
+  SIZE = 4939,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.XPath.Node.PI.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2106,
+  SIZE = 4708,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.XPath.Node.Text.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2106,
+  SIZE = 4794,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.XPath.NodeSet.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2106,
+  SIZE = 6805,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.XPath.Number.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2106,
+  SIZE = 5057,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.XPath.PerlSAX.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2106,
+  SIZE = 5734,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.XPath.XMLParser.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2106,
+  SIZE = 9937,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.XSLT.3',
+  PACKID = 'modman',
+  DATE = 020314,
+  TIME = 0405,
+  SIZE = 11953,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XML.miniXQL.3',
+  PACKID = 'modman',
+  DATE = 020320,
+  TIME = 2107,
+  SIZE = 5740,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XS.APItest.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 7233,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XS.Typemap.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5304,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/XSLoader.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 11091,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/attributes.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 16293,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/attrs.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5441,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/autouse.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 6345,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/base.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5511,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/bigint.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 10890,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/bignum.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 15211,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/bigrat.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 8348,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/blib.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4716,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/bytes.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 6220,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/charnames.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 12787,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/constant.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 13260,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/diagnostics.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 10254,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/encoding.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 19060,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/fields.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 9076,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/filetest.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5968,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/if.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4545,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/integer.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 7384,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/less.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4299,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/lib.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 7259,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/locale.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4678,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/lwpcook.3',
+  PACKID = 'modman',
+  DATE = 020319,
+  TIME = 2233,
+  SIZE = 14932,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/open.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 10007,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/ops.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4589,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/overload.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 55403,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/re.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 7173,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/sigtrap.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 9793,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/sort.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 8727,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/strict.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 7371,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/subs.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4657,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/threads.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 12067,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/threads.shared.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 11051,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/utf8.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 12057,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/vars.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 5329,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/vmsish.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 8188,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/warning.3',
+  PACKID = 'modman',
+  DATE = 981112,
+  TIME = 2353,
+  SIZE = 5168,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/warnings.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 7927,
+  PWSPATH = 'AUX7'
+
+
+FILE
+  PWS = 'man3/warnings.register.3',
+  PACKID = 'modman',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 4243,
+  PWSPATH = 'AUX7'
+

@@ -1,0 +1,16 @@
+
+PACKFILE
+  ID = 'sh',
+  SOURCE = 'DRIVE: perl_sh.zip',
+  * -j circumvents a limitation of SI
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR%'
+
+FILE
+  PWS = 'sh.exe',
+  PACKID = 'sh',
+  REPLACEINUSE = 'D I R U',
+  DATE = 020212,
+  TIME = 1803,
+  SIZE = 163844,
+  PWSPATH = 'AUX4'
+

@@ -1,0 +1,10598 @@
+
+PACKFILE
+  ID = 'main_lib',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  * -j circumvents a limitation of SI
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR%'
+
+FILE
+  PWS = '5.8.2/00p',
+  PACKID = 'main_lib',
+  DATE = 031215,
+  TIME = 0035,
+  SIZE = 2505,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/00p1',
+  PACKID = 'main_lib',
+  DATE = 031215,
+  TIME = 0036,
+  SIZE = 421,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Attribute/Handlers.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 27995,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Attribute/Handlers/demo/Demo.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1440,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Attribute/Handlers/demo/Descriptions.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 350,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Attribute/Handlers/demo/MyClass.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1895,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Attribute/Handlers/demo/demo.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 584,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Attribute/Handlers/demo/demo2.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 588,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Attribute/Handlers/demo/demo3.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 250,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Attribute/Handlers/demo/demo4.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 198,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Attribute/Handlers/demo/demo_call.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 154,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Attribute/Handlers/demo/demo_chain.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 497,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Attribute/Handlers/demo/demo_cycle.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 426,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Attribute/Handlers/demo/demo_hashdir.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 186,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Attribute/Handlers/demo/demo_phases.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 443,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Attribute/Handlers/demo/demo_range.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 365,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Attribute/Handlers/demo/demo_rawdata.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 283,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/AutoLoader.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 11093,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/AutoSplit.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 15658,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/B/assemble',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 648,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/B/cc_harness',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 295,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/B/disassemble',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 396,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/B/makeliblinks',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 1479,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Benchmark.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 27320,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 225959,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/Apache.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 271,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/Cookie.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 14213,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/Fast.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 7192,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/Pretty.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 7841,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/Push.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 10942,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/RunMeFirst',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 754,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/caution.xbm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 741,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/clickable_image.cgi',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 807,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/cookie.cgi',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2263,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/crash.cgi',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 131,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/customize.cgi',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2454,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/diff_upload.cgi',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1595,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/dna_small_gif.uu',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 3798,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/file_upload.cgi',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1998,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/frameset.cgi',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2075,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/index.html',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 3487,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/internal_links.cgi',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1018,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/javascript.cgi',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 3049,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/make_links.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 196,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/monty.cgi',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2086,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/multiple_forms.cgi',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1597,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/nph-clock.cgi',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 359,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/nph-multipart.cgi',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 263,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/popup.cgi',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1023,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/save_state.cgi',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2311,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/tryit.cgi',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 780,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/eg/wilogo_gif.uu',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 659,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CPAN.pm-new',
+  PACKID = 'main_lib',
+  DATE = 031207,
+  TIME = 0048,
+  SIZE = 242899,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CPAN.pm-ok',
+  PACKID = 'main_lib',
+  DATE = 031215,
+  TIME = 0052,
+  SIZE = 242085,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CPAN.pm-pre-prereq',
+  PACKID = 'main_lib',
+  DATE = 031203,
+  TIME = 1958,
+  SIZE = 235602,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CPAN.pm.orig1',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 223798,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CPAN/Admin.pm',
+  PACKID = 'main_lib',
+  DATE = 020421,
+  TIME = 0322,
+  SIZE = 7212,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CPAN/Config.pm-do-uptodate',
+  PACKID = 'main_lib',
+  DATE = 031111,
+  TIME = 1756,
+  SIZE = 1671,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CPAN/Config.pm-install-full',
+  PACKID = 'main_lib',
+  DATE = 031204,
+  TIME = 1514,
+  SIZE = 1679,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CPAN/Config.pm-skip-uptodate',
+  PACKID = 'main_lib',
+  DATE = 031204,
+  TIME = 0224,
+  SIZE = 1621,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CPAN/FirstTime.pm',
+  PACKID = 'main_lib',
+  DATE = 030515,
+  TIME = 1243,
+  SIZE = 21571,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CPAN/FirstTime.pm.orig1',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 21575,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CPAN/FirstTime.pm.orig2',
+  PACKID = 'main_lib',
+  DATE = 030515,
+  TIME = 1243,
+  SIZE = 21571,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CPAN/Nox.pm',
+  PACKID = 'main_lib',
+  DATE = 030329,
+  TIME = 0008,
+  SIZE = 802,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CPAN/PAUSE2003.pub',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1750,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CPAN/SIGNATURE',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2028,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Class/ISA.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 7012,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Class/Struct.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 20512,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/DB.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 19223,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Devel/SelfStubber.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 4925,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Digest.pm',
+  PACKID = 'main_lib',
+  DATE = 031130,
+  TIME = 2352,
+  SIZE = 7937,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/DirHandle.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1758,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Dumpvalue.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 16892,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Encode/CN/HZ.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 4479,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Encode/Changes.e2x',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 180,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Encode/ConfigLocal_PM.e2x',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 184,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Encode/JP/H2Z.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 4525,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Encode/JP/JIS7.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 3825,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Encode/KR/2022_KR.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1837,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Encode/MIME/Header.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 5878,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Encode/Makefile_PL.e2x',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 4550,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Encode/PerlIO.pod',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 6050,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Encode/README.e2x',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 553,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Encode/Supported.pod',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 28447,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Encode/Unicode/UTF7.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 3211,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Encode/_PM.e2x',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 250,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Encode/_T.e2x',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 133,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Encode/encode.h',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 3660,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/English.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 4504,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Env.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 5170,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Exporter.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 13690,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/Command.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 3968,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/Embed.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 12951,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/Embed.pm-new',
+  PACKID = 'main_lib',
+  DATE = 031208,
+  TIME = 2017,
+  SIZE = 12993,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/Install.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 16065,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/Installed.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 9332,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/Liblist.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 9461,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/Liblist/Kid.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 18937,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MANIFEST.SKIP',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 170,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MM_Any.pm',
+  PACKID = 'main_lib',
+  DATE = 031031,
+  TIME = 1403,
+  SIZE = 20196,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MM_BeOS.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 971,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MM_Cygwin.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1907,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MM_DOS.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 968,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MM_MacOS.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 24944,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MM_NW5.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 6720,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MM_OS2.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 3785,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MM_UWIN.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 973,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MM_Unix.pm',
+  PACKID = 'main_lib',
+  DATE = 031216,
+  TIME = 0010,
+  SIZE = 114185,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MM_Unix.pm-pre',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1307,
+  SIZE = 109822,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MM_Unix.pm-pre1',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1307,
+  SIZE = 109822,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MM_Unix.pm.orig1',
+  PACKID = 'main_lib',
+  DATE = 031031,
+  TIME = 1403,
+  SIZE = 109795,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MM_VMS.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 70366,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MM_Win32.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 11768,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MM_Win95.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 3626,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MY.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 689,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MakeMaker.pm',
+  PACKID = 'main_lib',
+  DATE = 031031,
+  TIME = 1403,
+  SIZE = 76823,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MakeMaker/FAQ.pod',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 6542,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/Manifest.pm',
+  PACKID = 'main_lib',
+  DATE = 031216,
+  TIME = 0008,
+  SIZE = 16964,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/Manifest.pm-pre',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 16804,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/Miniperl.pm',
+  PACKID = 'main_lib',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 5605,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/Mkbootstrap.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 3048,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/Mksymlists.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 10659,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/NOTES',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 3500,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/PATCHING',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 6061,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/Packlist.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 6991,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/ParseXS.pm',
+  PACKID = 'main_lib',
+  DATE = 030929,
+  TIME = 0732,
+  SIZE = 53679,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/instmodsh',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 3478,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/testlib.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 854,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/typemap',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 6810,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/xsubpp',
+  PACKID = 'main_lib',
+  DATE = 030320,
+  TIME = 0619,
+  SIZE = 3889,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Fatal.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 4969,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/Basename.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 9417,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/CheckTree.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 7351,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/Compare.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 4284,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/Copy.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 13695,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/DosGlob.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 16626,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/Path.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 7551,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/Spec.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 9161,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/Spec/Cygwin.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1615,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/Spec/Epoc.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1339,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/Spec/Mac.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 22466,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/Spec/OS2.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 6521,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/Spec/VMS.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 14322,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/Spec/Win32.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 9504,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/Temp.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 59726,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/stat.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 3372,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/FileCache.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 4865,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/FileHandle.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 6771,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/FindBin.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 4957,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Getopt/Long.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 69870,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Getopt/Std.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 8357,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/I18N/LangTags.pm',
+  PACKID = 'main_lib',
+  DATE = 031023,
+  TIME = 1229,
+  SIZE = 25834,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/I18N/LangTags/List.pm',
+  PACKID = 'main_lib',
+  DATE = 031023,
+  TIME = 1229,
+  SIZE = 28833,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/IO/Socket/INET.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 11379,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/IPC/Open2.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 3917,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/IPC/Open3.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 10712,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Constants.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 924,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Constants.pod',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1346,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Country.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 13443,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Country.pod',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 8467,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Currency.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 6415,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Currency.pod',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 4460,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Language.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 4860,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Language.pod',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 3563,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Maketext.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 15308,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Maketext.pod',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 48344,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Maketext/Guts.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 9489,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Maketext/GutsLoader.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1277,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Maketext/TPJ13.pod',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 36114,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Script.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 7319,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Script.pod',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 6143,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Math/BigFloat.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 83834,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Math/BigInt/Calc.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 55884,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Math/Complex.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 44369,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Math/Trig.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 14333,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Memoize/Expire.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 11463,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Memoize/ExpireFile.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1048,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Memoize/ExpireTest.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 881,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Memoize/NDBM_File.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1486,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/NEXT.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 16122,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/ChangeLog.libnet',
+  PACKID = 'main_lib',
+  DATE = 031021,
+  TIME = 1154,
+  SIZE = 33802,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/Cmd.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 15702,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/Config.eg',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1177,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/Domain.pm',
+  PACKID = 'main_lib',
+  DATE = 031021,
+  TIME = 1154,
+  SIZE = 7532,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/FTP.pm',
+  PACKID = 'main_lib',
+  DATE = 031021,
+  TIME = 1154,
+  SIZE = 42594,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/FTP/A.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2190,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/FTP/E.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 91,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/FTP/I.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1660,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/FTP/L.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 91,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/FTP/dataconn.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2152,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/Hostname.eg',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 235,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/NNTP.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 26424,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/Netrc.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 7241,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/POP3.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 12181,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/Ping.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 57981,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/README.libnet',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3362,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/SMTP.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 17884,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/Time.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3431,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/demos/ftp',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 371,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/demos/inetd',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 197,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/demos/nntp',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 576,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/demos/nntp.mirror',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3382,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/demos/pop3',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 352,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/demos/smtp.self',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1176,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/demos/time',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 309,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/hostent.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4017,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/libnet.cfg',
+  PACKID = 'main_lib',
+  DATE = 031214,
+  TIME = 1828,
+  SIZE = 282,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/libnetFAQ.pod',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 10052,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/netent.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4481,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/protoent.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3037,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/servent.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3478,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/PerlIO.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 8785,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Checker.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 40456,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Html.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 57740,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/InputObjects.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 27365,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/LaTeX.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 59053,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Man.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 52919,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/ParseLink.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 6643,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/ParseUtils.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 20805,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Parser.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 63296,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Perldoc.pm',
+  PACKID = 'main_lib',
+  DATE = 031023,
+  TIME = 1229,
+  SIZE = 53172,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Perldoc/BaseTo.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 474,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Perldoc/GetOptsOO.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2795,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Perldoc/ToChecker.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1488,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Perldoc/ToMan.pm',
+  PACKID = 'main_lib',
+  DATE = 031023,
+  TIME = 1229,
+  SIZE = 5032,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Perldoc/ToNroff.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2582,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Perldoc/ToPod.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2011,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Perldoc/ToRtf.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2076,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Perldoc/ToText.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2064,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Perldoc/ToTk.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3396,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Perldoc/ToXml.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1313,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/PlainText.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 24463,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Plainer.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1282,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Text.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 31338,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Text/Color.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4148,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Text/Overstrike.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 6702,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Text/Termcap.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 5475,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Usage.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 17583,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Search/Dict.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2751,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/SelectSaver.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1074,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/SelfLoader.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 12634,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Shell.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4072,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Term/ANSIColor.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 18613,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Term/Cap.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 17404,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Term/Complete.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4528,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Term/ReadLine.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 11051,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Test.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 22579,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Test/Builder.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 30715,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Test/Harness.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 33502,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Test/Harness/Assert.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 973,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Test/Harness/Iterator.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1132,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Test/Harness/Straps.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 16342,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Test/More.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 31166,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Text/Abbrev.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2026,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Text/Balanced.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 67417,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Text/ParseWords.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 6598,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Text/Soundex.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4250,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Text/Tabs.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1803,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Text/Wrap.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 6018,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Thread.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 10152,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Thread/Queue.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2084,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Thread/Semaphore.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2548,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Tie/Array.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 7431,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Tie/Hash.pm',
+  PACKID = 'main_lib',
+  DATE = 031018,
+  TIME = 1514,
+  SIZE = 6898,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Tie/RefHash.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3191,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Tie/SubstrHash.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 5404,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Time/Local.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 8643,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Time/gmtime.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2520,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Time/localtime.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2350,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Time/tm.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 691,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/UNIVERSAL.pm',
+  PACKID = 'main_lib',
+  DATE = 031030,
+  TIME = 1225,
+  SIZE = 4052,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Unicode/Collate/keys.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 52838,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Unicode/UCD.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 21206,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/User/grent.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2901,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/User/pwent.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 9871,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Win32.pod',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 14839,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/abbrev.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 838,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/assert.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1298,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/attributes.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 12796,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/auto/POSIX/SigAction/flags.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 351,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/auto/POSIX/SigAction/handler.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 386,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/auto/POSIX/SigAction/mask.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 348,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/auto/POSIX/SigAction/safe.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 348,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/autouse.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4182,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/bigfloat.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 7368,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/bigint.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 8959,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/bignum.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 14031,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/bigrat.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4476,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/blib.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1674,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/bytes_heavy.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 758,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/cacheout.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1122,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/charnames.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 15326,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/complete.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3191,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ctime.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1993,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/diagnostics.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 16289,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/dotsh.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2277,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/dumpvar.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 14649,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/exceptions.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1736,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/fastcwd.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1019,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/fields.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 8807,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/filetest.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2156,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/find.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1185,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/finddepth.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1130,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/flush.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 642,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/getcwd.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1427,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/getopt.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1322,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/getopts.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1380,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/hostname.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 727,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/if.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 877,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/importenv.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 356,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/integer.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3266,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/less.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 373,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/locale.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 820,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/look.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1255,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/newgetopt.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2216,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/open.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 8762,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/open2.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 185,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/open3.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 185,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/B.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 21516,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/B/Asmdata.pm',
+  PACKID = 'main_lib',
+  DATE = 031103,
+  TIME = 0004,
+  SIZE = 11105,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/B/Assembler.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 8022,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/B/Bblock.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 5185,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/B/Bytecode.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 20073,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/B/C.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 67294,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/B/CC.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 56268,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/B/Concise.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 36558,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/B/Debug.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 5911,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/B/Deparse.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 136685,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/B/Disassembler.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 4967,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/B/Lint.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 9946,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/B/Showlex.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 1985,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/B/Stackobj.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 8220,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/B/Stash.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 1084,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/B/Terse.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 2613,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/B/Xref.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 10894,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/ByteLoader.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 687,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Config.pod',
+  PACKID = 'main_lib',
+  DATE = 031203,
+  TIME = 1917,
+  SIZE = 218995,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Cwd.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 14697,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/DB_File.pm',
+  PACKID = 'main_lib',
+  DATE = 031102,
+  TIME = 1310,
+  SIZE = 63295,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/DLL.pm',
+  PACKID = 'main_lib',
+  DATE = 031216,
+  TIME = 0007,
+  SIZE = 8799,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/DLL.pm-pre',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1223,
+  SIZE = 7090,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Data/Dumper.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 36825,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Devel/DProf.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 6062,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Devel/PPPort.pm',
+  PACKID = 'main_lib',
+  DATE = 031102,
+  TIME = 1514,
+  SIZE = 33945,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Devel/Peek.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 16348,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Digest/MD5.pm',
+  PACKID = 'main_lib',
+  DATE = 031128,
+  TIME = 0506,
+  SIZE = 10110,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/DynaLoader.pm',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1242,
+  SIZE = 29097,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Encode.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 23163,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Encode/Alias.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 10289,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Encode/Byte.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 2446,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Encode/CJKConstants.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1696,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Encode/CN.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 2084,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Encode/EBCDIC.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 833,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Encode/Encoder.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 6122,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Encode/Guess.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 8948,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Encode/JP.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 2710,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Encode/KR.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 2027,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Encode/TW.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2356,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Encode/Unicode.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 8081,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Errno.pm',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1243,
+  SIZE = 5626,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Fcntl.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 5346,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/File/Glob.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 14473,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Filter/Util/Call.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 12899,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/IO.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1401,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/IO/Dir.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 5317,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/IO/Pipe.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 5454,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/IO/Poll.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 4522,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/IO/Seekable.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2935,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/MIME/Base64.pm',
+  PACKID = 'main_lib',
+  DATE = 031019,
+  TIME = 0946,
+  SIZE = 6488,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/O.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0909,
+  SIZE = 4241,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/OS2/ExtAttr.pm',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1223,
+  SIZE = 4108,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/OS2/PrfDB.pm',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1223,
+  SIZE = 7775,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/OS2/Process.pm',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1223,
+  SIZE = 44291,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/OS2/REXX.pm',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1223,
+  SIZE = 12959,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Opcode.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 15233,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/POSIX.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 18897,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/POSIX.pod',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 55381,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/PerlIO/via.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 7115,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Process/Const.pm',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1336,
+  SIZE = 2020,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Safe.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 17168,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Sys/Hostname.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 3853,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Sys/Syslog.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 16839,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Time/HiRes.pm',
+  PACKID = 'main_lib',
+  DATE = 031028,
+  TIME = 1235,
+  SIZE = 12612,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Unicode/Normalize.pm',
+  PACKID = 'main_lib',
+  DATE = 031027,
+  TIME = 0703,
+  SIZE = 11025,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/XS/APItest.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2923,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/XS/Typemap.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2113,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/XSLoader.pm',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1322,
+  SIZE = 9273,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/attrs.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1435,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/B/B.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1323,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/B/BCT.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1323,
+  SIZE = 39531,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/B/C/C.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1323,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/B/C/CDA.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1323,
+  SIZE = 2660,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/ByteLoader/ByteLoDD.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1323,
+  SIZE = 10868,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/ByteLoader/ByteLoader.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1323,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Cwd/Cwd.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1323,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Cwd/CwdSN.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1323,
+  SIZE = 3693,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/DB_File/DB_FilHA.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1323,
+  SIZE = 53874,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/DB_File/DB_File.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1323,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Data/Dumper/Dumper.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1324,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Data/Dumper/DumperTR.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1324,
+  SIZE = 13431,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Devel/DProf/DProf.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1329,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Devel/DProf/DProfRK.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1329,
+  SIZE = 7805,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Devel/PPPort/PPPort.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1330,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Devel/PPPort/PPPortHA.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1330,
+  SIZE = 5240,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Devel/Peek/Peek.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1330,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Devel/Peek/PeekTU.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1330,
+  SIZE = 7285,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Digest/MD5/MD5.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1330,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Digest/MD5/MD5EG.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031215,
+  TIME = 0341,
+  SIZE = 6773,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/DynaLoader/dl_expandspec.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1242,
+  SIZE = 1303,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/DynaLoader/dl_find_symbol_anywhere.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1242,
+  SIZE = 524,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/DynaLoader/dl_findfile.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1242,
+  SIZE = 4413,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/Byte/Byte.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1331,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/Byte/ByteEQ.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1359,
+  SIZE = 99444,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/CN/CN.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1331,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/CN/CNRW.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1400,
+  SIZE = 764016,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/EBCDIC/EBCDIC.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1331,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/EBCDIC/EBCDICIX.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1400,
+  SIZE = 10872,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/Encode.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1334,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/EncodeWR.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1334,
+  SIZE = 12402,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/JP/JP.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1332,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/JP/JPQV.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1400,
+  SIZE = 908400,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/KR/KR.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1333,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/KR/KRVU.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1400,
+  SIZE = 834160,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/Symbol/Symbol.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1333,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/Symbol/SymbolKY.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1401,
+  SIZE = 13944,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/TW/TW.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1334,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/TW/TWFD.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1401,
+  SIZE = 746096,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/Unicode/UnicodNR.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1334,
+  SIZE = 6778,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Encode/Unicode/Unicode.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1334,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Fcntl/Fcntl.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1334,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Fcntl/FcntlNC.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1334,
+  SIZE = 8815,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/File/Glob/Glob.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1334,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/File/Glob/GlobAJ.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1334,
+  SIZE = 7796,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Filter/Util/Call/Call.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1335,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Filter/Util/Call/CallWK.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1335,
+  SIZE = 4734,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/IO/IO.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1335,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/IO/IOGI.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031215,
+  TIME = 1806,
+  SIZE = 7276,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/List/Util/Util.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1335,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/List/Util/UtilEM.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1335,
+  SIZE = 9844,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/MIME/Base64/Base64.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1335,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/MIME/Base64/Base64JN.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1335,
+  SIZE = 5238,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/DLL/DLL.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/DLL/DLLKA.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 8812,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/ExtAttr/ExtAttGS.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1336,
+  SIZE = 7286,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/ExtAttr/ExtAttr.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1336,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/PrfDB/PrfDB.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1336,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/PrfDB/PrfDBSL.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1336,
+  SIZE = 5748,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/Process/Const/Const.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1336,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/Process/Const/ConstYC.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1336,
+  SIZE = 26754,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/Process/ProcesTD.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1336,
+  SIZE = 41078,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/Process/Process.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1336,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/REXX/REXX.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/OS2/REXX/REXXZQ.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 8819,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Opcode/Opcode.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Opcode/OpcodeUG.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 8816,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/POSIX.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/POSIXXL.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 45167,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/abs.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 317,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/alarm.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 333,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/assert.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 362,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/atan2.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 336,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/atexit.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 329,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/atof.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 310,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/atoi.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 310,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/atol.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 310,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/bsearch.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 312,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/calloc.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 318,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/chdir.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 335,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/chmod.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 347,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/chown.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 358,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/clearerr.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 314,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/closedir.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 349,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/cos.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 317,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/creat.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 374,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/div.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 323,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/errno.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 314,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/execl.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 314,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/execle.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 318,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/execlp.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 318,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/execv.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 314,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/execve.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 318,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/execvp.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 318,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/exit.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 327,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/exp.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 317,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fabs.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 321,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fclose.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 305,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fcntl.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 360,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fdopen.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 311,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/feof.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 297,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/ferror.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 305,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fflush.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 305,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fgetc.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 301,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fgetpos.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 311,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fgets.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 301,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fileno.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 306,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fopen.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 299,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fork.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 314,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fprintf.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 333,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fputc.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 324,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fputs.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 324,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fread.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 323,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/free.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 310,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/freopen.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 331,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fscanf.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 349,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fseek.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 303,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fsetpos.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 311,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fstat.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 425,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fsync.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 301,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/ftell.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 303,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/fwrite.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 328,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/getc.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 327,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/getchar.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 333,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/getegid.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 322,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/getenv.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 327,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/geteuid.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 322,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/getgid.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 318,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/getgrgid.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 344,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/getgrnam.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 345,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/getgroups.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 374,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/getlogin.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 336,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/getpgrp.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 329,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/getpid.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 314,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/getppid.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 329,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/getpwnam.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 345,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/getpwuid.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 344,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/gets.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 318,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/getuid.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 314,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/gmtime.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 335,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/isatty.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 330,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/kill.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 335,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/labs.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 318,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/ldiv.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 327,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/link.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 352,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/load_imports.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 6832,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/localtime.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 350,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/log.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 317,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/longjmp.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 330,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/malloc.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 318,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/memchr.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 330,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/memcmp.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 325,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/memcpy.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 324,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/memmove.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 328,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/memset.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 324,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/mkdir.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 352,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/offsetof.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 326,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/opendir.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 402,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/perror.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 330,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/pow.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 324,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/printf.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 349,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/putc.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 320,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/putchar.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 332,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/puts.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 320,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/qsort.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 323,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/raise.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 354,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/rand.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 328,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/readdir.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 345,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/realloc.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 322,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/redef.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 328,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/remove.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 339,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/rename.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 362,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/rewind.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 343,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/rewinddir.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 355,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/rmdir.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 339,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/scanf.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 345,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/setbuf.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 306,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/setjmp.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 330,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/setvbuf.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 310,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/siglongjmp.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 342,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/sigsetjmp.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 342,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/sin.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 317,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/sleep.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 341,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/sprintf.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 351,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/sqrt.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 322,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/srand.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 291,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/sscanf.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 342,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/stat.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 329,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/strcat.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 325,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/strchr.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 330,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/strcmp.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 325,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/strcpy.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 324,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/strcspn.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 346,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/strerror.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 355,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/strlen.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 329,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/strncat.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 329,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/strncmp.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 329,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/strncpy.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 328,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/strpbrk.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 322,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/strrchr.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 335,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/strspn.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 318,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/strstr.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 348,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/strtok.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 318,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/system.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 338,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/time.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 314,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/tmpfile.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 312,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/tolower.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 330,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/toupper.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 330,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/umask.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 330,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/ungetc.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 306,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/unimpl.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 357,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/unlink.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 339,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/usage.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 323,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/utime.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 362,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/vfprintf.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 317,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/vprintf.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 313,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/vsprintf.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 317,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/wait.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 316,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/waitpid.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 355,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/PerlIO/encoding/encodiCT.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 7802,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/PerlIO/encoding/encoding.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/PerlIO/scalar/scalar.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1338,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/PerlIO/scalar/scalarTY.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1338,
+  SIZE = 3704,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/PerlIO/via/via.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1338,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/PerlIO/via/viaNQ.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1338,
+  SIZE = 6773,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/SDBM_File/SDBM_FJR.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1338,
+  SIZE = 11379,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/SDBM_File/SDBM_File.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1338,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Socket/Socket.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1338,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Socket/SocketLY.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1338,
+  SIZE = 13424,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/CAN_FLOCK.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 576,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/StorabQB.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 32370,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/Storable.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/_freeze.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 729,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/_retrieve.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 940,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/_store.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 1369,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/_store_fd.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 928,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/fd_retrieve.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 698,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/freeze.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 419,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/lock_nstore.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 427,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/lock_retrieve.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 404,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/lock_store.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 418,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/logcarp.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 307,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/logcroak.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 455,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/nfreeze.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 378,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/nstore.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 383,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/nstore_fd.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 424,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/read_magic.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 1256,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/retrieve.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 434,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/show_file_magic.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 831,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/store.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 562,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/store_fd.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 466,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/thaw.al',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 693,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Sys/Hostname/HostnaGT.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 2679,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Sys/Hostname/Hostname.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Sys/Syslog/Syslog.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Sys/Syslog/SyslogAF.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 6261,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Time/HiRes/HiRes.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Time/HiRes/HiResQQ.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031215,
+  TIME = 0109,
+  SIZE = 5749,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Unicode/Normalize/NormalMV.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1401,
+  SIZE = 110716,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Unicode/Normalize/Normalize.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1340,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/XS/APItest/APItesNN.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1340,
+  SIZE = 3701,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/XS/APItest/APItest.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1340,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/XS/Typemap/TypemaDL.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1340,
+  SIZE = 9333,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/XS/Typemap/Typemap.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1340,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/attrs/attrs.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1340,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/attrs/attrsEC.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1340,
+  SIZE = 3183,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/re/re.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1341,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/re/reDJ.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1341,
+  SIZE = 85612,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/threads/shared/shared.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1341,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/threads/shared/sharedMQ.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1341,
+  SIZE = 2681,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/threads/threadNE.dll',
+  PACKID = 'main_lib',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031108,
+  TIME = 1341,
+  SIZE = 2673,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/threads/threads.bs',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1341,
+  SIZE = 0,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/lib.pm',
+  PACKID = 'main_lib',
+  DATE = 031117,
+  TIME = 0401,
+  SIZE = 5885,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/ops.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 993,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/perllocal.pod',
+  PACKID = 'main_lib',
+  DATE = 031216,
+  TIME = 2048,
+  SIZE = 143770,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/re.pm',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1242,
+  SIZE = 4019,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/threads.pm',
+  PACKID = 'main_lib',
+  DATE = 031019,
+  TIME = 1013,
+  SIZE = 8497,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/threads/shared.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 6729,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/overload.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 45919,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/perl5db.pl',
+  PACKID = 'main_lib',
+  DATE = 031108,
+  TIME = 1305,
+  SIZE = 298404,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/pwd.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1478,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/shellwords.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 925,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/sigtrap.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 7584,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/sort.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 6139,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/stat.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 658,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/strict.pm',
+  PACKID = 'main_lib',
+  DATE = 031018,
+  TIME = 1514,
+  SIZE = 3292,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/subs.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 842,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/syslog.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4806,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/tainted.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 164,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/termcap.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4114,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/timelocal.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 690,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/ArabLink.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 678,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/ArabLnkGrp.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1566,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/ArabicShaping.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 7366,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/BidiMirroring.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 21515,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/Bidirectional.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 8766,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/Blocks.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3644,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/Blocks.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4016,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/Canonical.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 19339,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/CaseFolding.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 50528,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/Category.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 19290,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/CombiningClass.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2098,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/CompositionExclusions.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 7229,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/Decomposition.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 99976,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/EastAsianWidth.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 555484,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/Exact.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2126,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/HangulSyllableType.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 50839,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/Index.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 118843,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/Jamo.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3212,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/JamoShort.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 740,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/Lbrk.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 12876,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/LineBreak.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 570603,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/Name.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 509513,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/NamesList.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 740980,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/NormalizationCorrections.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1822,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/Number.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 5422,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/PropList.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 44952,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/PropValueAliases.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 13735,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/Properties',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 24805,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/PropertyAliases.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4070,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/README.perl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 658,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/ReadMe.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1174,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/Scripts.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 6840,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/Scripts.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 43916,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/SpecialCasing.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 15390,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/StandardizedVariants.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 6386,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/To/Fold.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 11620,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/UnicodeData.txt',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 897669,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/ASCII.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 242,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Alnum.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4649,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Alpha.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4447,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Alphabet.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4278,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Any.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 263,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Arabic.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 525,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Armenian.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 337,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/AsciiHex.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 366,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Assigned.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4577,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Bengali.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 507,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiAL.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 489,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiAN.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 271,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiB.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 286,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiBN.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 385,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiCS.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 326,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiCont.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 329,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiEN.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 360,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiES.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 263,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiET.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 487,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiL.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4135,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiLRE.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 258,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiLRO.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 258,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiNSM.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1323,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiON.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1507,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiPDF.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 258,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiR.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 440,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiRLE.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 258,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiRLO.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 258,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiS.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 268,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/BidiWS.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 316,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Blank.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 298,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Bopomofo.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 303,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Braille.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 281,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Buhid.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 275,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/C.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4156,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Canadian.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 346,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Canon.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2191,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Cc.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 295,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Cf.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 412,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Cherokee.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 284,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Cn.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4171,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Cntrl.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 431,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Co.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 312,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Common.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3855,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Compat.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1601,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Cs.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 284,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Cypriot.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 368,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Cyrillic.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 394,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/DCcircle.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 302,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/DCcompat.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 900,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/DCfinal.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1104,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/DCfont.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 624,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/DCfracti.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 273,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/DCinitia.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 818,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/DCisolat.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 957,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/DCmedial.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 633,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/DCnarrow.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 313,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/DCnoBrea.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 284,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/DCsmall.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 278,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/DCsquare.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 294,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/DCsub.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 263,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/DCsuper.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 387,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/DCvertic.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 287,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/DCwide.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 272,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Dash.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 430,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Deprecat.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 356,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Deseret.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 283,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Devanaga.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 374,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Diacriti.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1768,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Ethiopic.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 735,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Extender.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 457,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Georgian.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 303,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Gothic.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 280,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Graph.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4594,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Grapheme.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 565,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Greek.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 735,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Gujarati.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 508,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Gurmukhi.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 542,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Han.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 433,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Hangul.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 431,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Hanunoo.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 281,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Hebrew.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 423,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/HexDigit.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 397,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Hiragana.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 303,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Hyphen.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 393,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/IdContin.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4789,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/IdStart.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3737,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Ideograp.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 462,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/IdsBinar.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 356,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/IdsTrina.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 329,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InAegean.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 304,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InAlphab.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 346,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InArabi2.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 339,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InArabi3.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 339,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InArabic.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 279,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InArmeni.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 285,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InArrows.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 279,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InBasicL.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 293,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InBengal.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 282,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InBlockE.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 302,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InBopom2.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 311,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InBopomo.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 285,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InBoxDra.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 293,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InBraill.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 308,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InBuhid.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 276,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InByzant.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 336,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InCherok.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 285,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InCjkCo2.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 328,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InCjkCo3.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 343,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InCjkCo4.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 377,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InCjkCom.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 311,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InCjkRad.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 328,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InCjkSym.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 339,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InCjkUn2.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 361,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InCjkUn3.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 359,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InCjkUni.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 325,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InCombi2.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 340,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InCombi3.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 374,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InCombin.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 319,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InContro.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 308,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InCurren.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 308,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InCyprio.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 313,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InCyril2.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 326,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InCyrill.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 285,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InDesere.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 284,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InDevana.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 291,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InDingba.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 285,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InEnclo2.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 350,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InEnclos.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 326,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InEthiop.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 285,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InGenera.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 317,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InGeomet.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 308,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InGeorgi.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 285,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InGothic.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 281,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InGreek.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 276,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InGreekA.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 307,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InGreekE.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 302,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InGujara.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 285,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InGurmuk.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 285,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InHalfwi.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 345,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InHangu2.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 308,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InHangu3.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 334,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InHangul.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 293,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InHanuno.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 282,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InHebrew.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 279,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InHighPr.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 339,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InHighSu.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 305,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InHiraga.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 285,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InIdeogr.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 361,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InIpaExt.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 302,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InKanbun.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 279,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InKangxi.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 305,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InKannad.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 282,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InKatak2.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 343,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InKataka.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 285,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InKhmer.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 276,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InKhmerS.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 299,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InLao.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 270,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InLatin1.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 313,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InLatin2.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 307,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InLatin3.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 334,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InLatinE.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 307,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InLetter.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 314,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InLimbu.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 276,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InLinea2.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 315,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InLinear.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 315,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InLowSur.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 302,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InMalaya.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 288,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InMathe2.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 360,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InMathem.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 326,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InMisce2.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 329,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InMisce3.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 354,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InMisce4.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 366,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InMisce5.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 366,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InMiscel.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 323,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InMongol.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 288,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InMusica.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 307,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InMyanma.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 282,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InNumber.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 296,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InOgham.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 276,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InOldIta.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 292,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InOptica.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 346,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InOriya.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 276,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InOsmany.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 284,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InPhonet.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 317,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InPrivat.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 307,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InRunic.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 276,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InShavia.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 284,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InSinhal.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 282,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InSmallF.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 316,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InSpacin.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 331,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InSpecia.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 285,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InSupers.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 340,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InSuppl2.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 322,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InSuppl3.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 355,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InSuppl4.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 357,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InSuppl5.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 364,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InSupple.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 322,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InSyriac.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 279,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InTagalo.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 282,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InTagban.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 285,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InTags.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 275,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InTaiLe.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 278,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InTaiXua.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 323,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InTamil.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 276,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InTelugu.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 279,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InThaana.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 279,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InThai.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 273,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InTibeta.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 282,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InUgarit.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 287,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InUnifie.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 369,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InVaria2.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 351,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InVariat.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 317,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InYiRadi.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 293,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InYiSyll.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 296,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/InYijing.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 328,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Inherite.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 759,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/JoinCont.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 306,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Kannada.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 493,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Katakana.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 360,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Khmer.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 291,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/L.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3687,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/L_.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1312,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Lao.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 483,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Latin.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 575,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Limbu.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 323,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/LinearB.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 411,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Ll.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3600,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Lm.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 449,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Lo.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2637,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/LogicalO.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 372,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Lowercas.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3649,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Lt.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 355,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Lu.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3571,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/M.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1489,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Malayala.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 483,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Math.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1147,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Mc.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 840,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Me.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 313,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Mirrored.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1152,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Mn.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1366,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Mongolia.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 327,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Myanmar.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 389,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/N.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 778,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Nd.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 530,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Nl.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 332,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/No.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 511,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Nonchara.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 950,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Ogham.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 275,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/OldItali.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 291,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Oriya.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 495,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Osmanya.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 303,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/OtherAlp.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2669,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/OtherDef.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 849,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/OtherGra.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 703,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/OtherIdS.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 353,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/OtherLow.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 489,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/OtherMat.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1602,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/OtherUpp.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 341,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/P.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1089,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Pc.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 341,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Pd.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 358,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Pe.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 718,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Pf.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 301,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Pi.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 312,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Po.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 962,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Print.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4590,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Ps.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 728,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Punct.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1052,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Quotatio.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 563,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Radical.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 328,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Runic.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 291,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/S.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1736,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Sc.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 384,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Shavian.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 283,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Sinhala.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 449,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Sk.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 475,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Sm.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 773,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/So.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1403,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/SoftDott.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 447,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Space.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 320,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/SpacePer.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 326,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Syriac.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 295,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Tagalog.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 299,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Tagbanwa.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 322,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/TaiLe.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 294,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Tamil.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 507,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Telugu.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 465,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Terminal.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1370,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Thaana.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 278,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Thai.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 302,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Tibetan.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 477,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Ugaritic.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 286,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/UnifiedI.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 563,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Uppercas.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3596,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/WhiteSpa.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 491,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Word.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4893,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/XDigit.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 266,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Yi.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 279,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Z.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 339,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Zl.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 280,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Zp.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 280,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Zs.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 333,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/_CanonDC.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 287,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/_CaseIgn.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1366,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/_CombAbo.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 719,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/mktables',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 51384,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/version',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 6,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/utf8.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 6905,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/utf8_heavy.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 9464,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/validate.pl',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3803,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/vars.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2358,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/warnings.pm',
+  PACKID = 'main_lib',
+  DATE = 031103,
+  TIME = 0004,
+  SIZE = 15716,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/warnings/register.pm',
+  PACKID = 'main_lib',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1014,
+  PWSPATH = 'FILE'
+
+
+* The following files need a special treatment since their names
+* would conflict with -j extraction from .zip.
+
+FILE
+  PWS = '5.8.2/AnyDBM_File.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/AnyDBM_File.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2594,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Attribute/Handlers/Changes',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Attribute/Handlers/Changes',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2714,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Attribute/Handlers/README',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Attribute/Handlers/README',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2206,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Bundle/CPAN.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Bundle/CPAN.pm',
+  DATE = 030309,
+  TIME = 0919,
+  SIZE = 1231,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/Carp.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/CGI/Carp.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 15292,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/Switch.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/CGI/Switch.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 285,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CGI/Util.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/CGI/Util.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 10856,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CPAN.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/CPAN.pm',
+  DATE = 031215,
+  TIME = 0052,
+  SIZE = 242085,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CPAN/Config.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/CPAN/Config.pm',
+  DATE = 031204,
+  TIME = 1514,
+  SIZE = 1679,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/CPAN/META.yml',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/CPAN/META.yml',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 313,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Carp.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Carp.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 6719,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Carp/Heavy.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Carp/Heavy.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 5918,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Digest/base.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Digest/base.pm',
+  DATE = 031128,
+  TIME = 0424,
+  SIZE = 1804,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Exporter/Heavy.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Exporter/Heavy.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 6396,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/Changes',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/ExtUtils/Changes',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 42443,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/Command/MM.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/ExtUtils/Command/MM.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 5916,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/Constant.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/ExtUtils/Constant.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 45716,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/META.yml',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/ExtUtils/META.yml',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 470,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MM.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/ExtUtils/MM.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1686,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MakeMaker/Tutorial.pod',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/ExtUtils/MakeMaker/Tutorial.pod',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 4338,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MakeMaker/bytes.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/ExtUtils/MakeMaker/bytes.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 769,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/MakeMaker/vmsish.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/ExtUtils/MakeMaker/vmsish.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 707,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/README',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/ExtUtils/README',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1842,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/ExtUtils/TODO',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/ExtUtils/TODO',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2080,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/Find.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/File/Find.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 35022,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/Spec/Functions.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/File/Spec/Functions.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1655,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/File/Spec/Unix.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/File/Spec/Unix.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 11515,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Filter/Simple.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Filter/Simple.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 20509,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Filter/Simple/Changes',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Filter/Simple/Changes',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1891,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Filter/Simple/README',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Filter/Simple/README',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1675,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Getopt/Long/CHANGES',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Getopt/Long/CHANGES',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 13693,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Getopt/Long/README',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Getopt/Long/README',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 6459,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Hash/Util.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Hash/Util.pm',
+  DATE = 031103,
+  TIME = 0004,
+  SIZE = 5171,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/I18N/Collate.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/I18N/Collate.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 5399,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/I18N/LangTags/ChangeLog',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/I18N/LangTags/ChangeLog',
+  DATE = 031023,
+  TIME = 1229,
+  SIZE = 3192,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/I18N/LangTags/README',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/I18N/LangTags/README',
+  DATE = 031023,
+  TIME = 1229,
+  SIZE = 2273,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/IO/Socket/UNIX.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/IO/Socket/UNIX.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 3123,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/List/Util.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/List/Util.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 6598,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Codes/ChangeLog',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Locale/Codes/ChangeLog',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 4553,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Codes/README',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Locale/Codes/README',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1430,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Maketext/ChangeLog',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Locale/Maketext/ChangeLog',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2051,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Locale/Maketext/README',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Locale/Maketext/README',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1752,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Math/BigFloat/Trace.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Math/BigFloat/Trace.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1248,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Math/BigInt.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Math/BigInt.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 139709,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Math/BigInt/Scalar.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Math/BigInt/Scalar.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 4497,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Math/BigInt/Trace.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Math/BigInt/Trace.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 983,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Math/BigRat.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Math/BigRat.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 36846,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Memoize.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Memoize.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 35275,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Memoize/AnyDBM_File.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Memoize/AnyDBM_File.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 672,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Memoize/README',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Memoize/README',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2926,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Memoize/SDBM_File.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Memoize/SDBM_File.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1484,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Memoize/Storable.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Memoize/Storable.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1411,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Memoize/TODO',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Memoize/TODO',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 10890,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/NEXT/Changes',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/NEXT/Changes',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1459,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/NEXT/README',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/NEXT/README',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2201,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/Config.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Net/Config.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 7580,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Net/Ping/Changes',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Net/Ping/Changes',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 8947,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/PerlIO/via/QuotedPrint.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/PerlIO/via/QuotedPrint.pm',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2382,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Find.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Pod/Find.pm',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 14750,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Functions.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Pod/Functions.pm',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 14289,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Pod/Select.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Pod/Select.pm',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 24107,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Scalar/Util.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Scalar/Util.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 7927,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Switch.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Switch.pm',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 27342,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Switch/Changes',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Switch/Changes',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1672,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Switch/README',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Switch/README',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 1390,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Symbol.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Symbol.pm',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4818,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Term/ANSIColor/ChangeLog',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Term/ANSIColor/ChangeLog',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 5346,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Term/ANSIColor/README',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Term/ANSIColor/README',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3600,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Test/Harness/Changes',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Test/Harness/Changes',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 10152,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Test/Simple.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Test/Simple.pm',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 6517,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Test/Simple/Changes',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Test/Simple/Changes',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 8337,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Test/Simple/README',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Test/Simple/README',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 623,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Test/Tutorial.pod',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Test/Tutorial.pod',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 18978,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Text/Balanced/Changes',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Text/Balanced/Changes',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 8012,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Text/Balanced/README',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Text/Balanced/README',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2587,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Text/TabsWrap/CHANGELOG',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Text/TabsWrap/CHANGELOG',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2486,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Tie/File.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Tie/File.pm',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 77346,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Tie/Handle.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Tie/Handle.pm',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4730,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Tie/Memoize.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Tie/Memoize.pm',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4251,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Tie/Scalar.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Tie/Scalar.pm',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3327,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Unicode/Collate.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Unicode/Collate.pm',
+  DATE = 031027,
+  TIME = 0631,
+  SIZE = 47975,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Unicode/Collate/Changes',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Unicode/Collate/Changes',
+  DATE = 031027,
+  TIME = 0631,
+  SIZE = 5254,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Unicode/Collate/README',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Unicode/Collate/README',
+  DATE = 031027,
+  TIME = 0631,
+  SIZE = 1522,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/Unicode/README',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/Unicode/README',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 342,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/base.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/base.pm',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4979,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/bigint.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/bigint.pm',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 10685,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/bigrat.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/bigrat.pm',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 7645,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/bytes.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/bytes.pm',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2286,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/constant.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/constant.pm',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 11524,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/.packlist',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/.packlist',
+  DATE = 031215,
+  TIME = 2051,
+  SIZE = 98733,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Config.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/Config.pm',
+  DATE = 031207,
+  TIME = 0057,
+  SIZE = 33997,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Encode/Config.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/Encode/Config.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 6245,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Encode/Encoding.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/Encode/Encoding.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 8381,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Encode/Symbol.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/Encode/Symbol.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 815,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/IO/File.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/IO/File.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 4287,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/IO/Handle.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/IO/Handle.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 15934,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/IO/Select.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/IO/Select.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 8021,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/IO/Socket.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/IO/Socket.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 11882,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/MIME/QuotedPrint.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/MIME/QuotedPrint.pm',
+  DATE = 031019,
+  TIME = 0946,
+  SIZE = 6953,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/PerlIO/encoding.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/PerlIO/encoding.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 1147,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/PerlIO/scalar.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/PerlIO/scalar.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 979,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/SDBM_File.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/SDBM_File.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 2517,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Socket.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/Socket.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 9793,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/Storable.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/Storable.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 34700,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/CPAN/.packlist',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/CPAN/.packlist',
+  DATE = 031216,
+  TIME = 0133,
+  SIZE = 223,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/DB_File/autosplit.ix',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/DB_File/autosplit.ix',
+  DATE = 031108,
+  TIME = 1323,
+  SIZE = 90,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Digest/.packlist',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Digest/.packlist',
+  DATE = 031216,
+  TIME = 0044,
+  SIZE = 69,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Digest/MD5/.packlist',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Digest/MD5/.packlist',
+  DATE = 031216,
+  TIME = 0133,
+  SIZE = 141,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/DynaLoader/autosplit.ix',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/DynaLoader/autosplit.ix',
+  DATE = 031108,
+  TIME = 1242,
+  SIZE = 189,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/ExtUtils/ParseXS/.packlist',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/ExtUtils/ParseXS/.packlist',
+  DATE = 031216,
+  TIME = 0144,
+  SIZE = 80,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/File/Spec/.packlist',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/File/Spec/.packlist',
+  DATE = 031216,
+  TIME = 0133,
+  SIZE = 360,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/MIME/Base64/.packlist',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/MIME/Base64/.packlist',
+  DATE = 031216,
+  TIME = 0133,
+  SIZE = 308,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Net/.packlist',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Net/.packlist',
+  DATE = 031216,
+  TIME = 0133,
+  SIZE = 568,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/POSIX/autosplit.ix',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/POSIX/autosplit.ix',
+  DATE = 031108,
+  TIME = 1337,
+  SIZE = 2424,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Storable/autosplit.ix',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Storable/autosplit.ix',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 476,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Sys/Hostname/autosplit.ix',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Sys/Hostname/autosplit.ix',
+  DATE = 031108,
+  TIME = 1339,
+  SIZE = 98,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/auto/Time/HiRes/.packlist',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/auto/Time/HiRes/.packlist',
+  DATE = 031216,
+  TIME = 0136,
+  SIZE = 145,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/os2/encoding.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/os2/encoding.pm',
+  DATE = 030930,
+  TIME = 0910,
+  SIZE = 14392,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/To/Digit.pl',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/unicore/To/Digit.pl',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 2370,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/To/Lower.pl',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/unicore/To/Lower.pl',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 8884,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/To/Title.pl',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/unicore/To/Title.pl',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 10576,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/To/Upper.pl',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/unicore/To/Upper.pl',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 11558,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Digit.pl',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/unicore/lib/Digit.pl',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 488,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Lower.pl',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/unicore/lib/Lower.pl',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3558,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Title.pl',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/unicore/lib/Title.pl',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 313,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/unicore/lib/Upper.pl',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/unicore/lib/Upper.pl',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 3529,
+  PWSPATH = 'FILE'
+
+
+FILE
+  PWS = '5.8.2/vmsish.pm',
+  SOURCE = 'DRIVE: perl_mlb.zip',
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR% 5.8.2/vmsish.pm',
+  DATE = 030930,
+  TIME = 0911,
+  SIZE = 4326,
+  PWSPATH = 'FILE'
+

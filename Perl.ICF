@@ -1,0 +1,14 @@
+CATALOG
+  NAME         = 'Perl interpreter',
+  DESCRIPTION  = 'This catalog contains Perl interpreter.'
+
+PACKAGE
+  NAME            = 'Perl interpreter',
+  * Number is decimal for 'P' 'e' 'r' (in fact 'e' is 101):
+  NUMBER          = '8001-114',
+  FEATURE         = '0000',
+  VRM             = '050802',
+  PACKAGEFILE     = 'DRIVE: Perl.PKG',
+  PKGDESCRFILE    = 'DRIVE: Perl.DSC',
+  SIZE            = '10000000'
+  * UPDATECONFIGSYS = 'YES'

@@ -1,0 +1,798 @@
+SERVICELEVEL
+   LEVEL = '050802'
+
+
+**********************************************************************
+
+
+*---------------------------------------------------------------------
+*  Include 1 DISK entry for each diskette needed.
+*
+*  The following changes are required:
+*  - Change "<Product Name>" in the each NAME keyword to your product
+*    name.
+*  - Set each VOLUME keyword to a unique value.
+*---------------------------------------------------------------------
+DISK
+   NAME   = '<Product Name> - Diskette 1',
+   VOLUME = 'PROD001'
+
+DISK
+   NAME   = '<Product Name> - Diskette 2',
+   VOLUME = 'PROD002'
+
+
+**********************************************************************
+
+
+*---------------------------------------------------------------------
+*  Default directories
+*---------------------------------------------------------------------
+PATH
+   FILE	     = 'i:/perllib/lib',
+   FILELABEL = 'Directory for perl library:',
+   AUX1      = 'i:/emx/bin',
+   AUX1LABEL = 'Directory for perl execs:',
+   AUX2      = 'i:/emx/bin',
+   AUX2LABEL = 'Directory for perl utils:',
+   AUX3      = 'i:/emx/dll',
+   AUX3LABEL = 'Directory for perl dlls:',
+   AUX4      = 'i:/bin',
+   AUX4LABEL = 'Directory for pdksh exec:',
+   AUX5      = 'i:/perllib/lib/site_perl',
+   AUX5LABEL = 'Directory for optnl library:',
+   AUX6      = 'i:/perllib/lib/5.8.2/pod',
+   AUX6LABEL = 'Directory for PODs:',
+   AUX7      = 'i:/perllib/man',
+   AUX7LABEL = 'Directory for manpages:',
+   AUX8      = 'i:/perllib/book',
+   AUX8LABEL = 'Directory for INF docs:',
+   AUX9      = 'i:/perllib',
+   AUX9LABEL = 'Directory for READMEs:',
+   AUX10      = 'i:/perllib/install',
+   AUX10LABEL = 'Directory for install utls:'
+
+
+**********************************************************************
+
+
+*---------------------------------------------------------------------
+*  Exit to define your product folder's object ID.
+*
+*  The following changes are required:
+*  - Set variable FOLDERID to your folder's object ID; be sure to make
+*    the value sufficiently unique; do not use "PRODFLDR".
+*---------------------------------------------------------------------
+FILE
+   EXITWHEN = 'ALWAYS',
+   EXIT     = 'SETVAR FOLDERID=PERLFLDR'
+
+FILE
+   EXITWHEN = 'ALWAYS',
+   EXIT     = 'SETVAR CONFIGFL=%EPFIFILEDIR%\config.dat'
+
+* Touch the file
+FILE
+   PWS = '%CONFIGFL%',
+   PWSPATH = 'FILE',
+   EXITWHEN = 'INSTALL || UPDATE || RESTORE',
+   EXIT     = 'EXEC bg tw cmd.exe /c "echo .>%CONFIGFL%"'
+
+*FILE
+*  PWS  = '%CONFIGFL%',
+*  DOWNLOAD = 'DELETE',
+*  WHEN = 'DELETE'
+
+
+**********************************************************************
+
+
+*---------------------------------------------------------------------
+*  This component creates a folder on the desktop.  You must create
+*  the folder in a hidden component to ensure that deleting your
+*  product does not delete the folder before the objects within the
+*  folder are deleted.
+*---------------------------------------------------------------------
+COMPONENT
+   NAME    = 'INSFIRST',
+   ID      = 'INSFIRST',
+   DISPLAY = 'NO',
+   SIZE    = '1000'
+
+*---------------------------------------------------------------------
+*  Include a FILE entry to install the catalog file.
+*
+*  The following changes are required:
+*  - Change the SOURCE and PWS keywords to the name of your catalog
+*    file.
+*---------------------------------------------------------------------
+
+*FILE
+*   VOLUME        = 'PROD001',
+*   WHEN          = 'OUTOFDATE',
+*   REPLACEINUSE  = 'I U D R',
+*   UNPACK        = 'NO',
+*   SOURCE        = 'DRIVE: Perl.ICF',
+*   PWS           = 'perl.ICF',
+*   DATE          = '950101',
+*   TIME          = '1200',
+*   SIZE          = '1000'
+
+*---------------------------------------------------------------------
+*  Set variable CATALOG to be the name of the catalog file;
+*  the variable is used in EPFISINC.PKG.
+*
+*  The following changes are required:
+*  - Change "CATALOG.ICF" in the EXIT keyword to the name of your
+*    catalog file.
+*---------------------------------------------------------------------
+FILE
+   EXITWHEN      = 'INSTALL || UPDATE || RESTORE',
+   EXITIGNOREERR = 'NO',
+   EXIT          = 'SETVAR CATALOG=Perl.ICF'
+
+FILE
+   EXITWHEN      = 'ALWAYS',
+   EXIT          = 'SETVAR SLASHES=////'
+
+*---------------------------------------------------------------------
+*  Include a FILE entry to install the description file.
+*
+*  The following changes are required:
+*  - Change the SOURCE and PWS keywords to the name of your
+*    description file.
+*---------------------------------------------------------------------
+
+*FILE
+*   VOLUME        = 'PROD001',
+*   WHEN          = 'OUTOFDATE',
+*   REPLACEINUSE  = 'I U D R',
+*   UNPACK        = 'NO',
+*   SOURCE        = 'DRIVE: Perl.DSC',
+*   PWS           = 'Perl.DSC',
+*   DATE          = '950101',
+*   TIME          = '1200',
+*   SIZE          = '1000'
+
+*---------------------------------------------------------------------
+*  Create your product''s folder on the desktop.
+*
+*  The following changes are required:
+*  - Change "<Product Name>" in the EXIT keyword to your product name.
+*---------------------------------------------------------------------
+FILE
+   EXITWHEN      = 'INSTALL || UPDATE',
+   EXITIGNOREERR = 'NO',
+   EXIT          = 'CREATEWPSOBJECT WPFolder "Perl^ maintenance"
+                   <WP_DESKTOP> R
+                   "OBJECTID=<%FOLDERID%>;"'
+
+FILE
+   EXITWHEN      = 'INSTALL || UPDATE',
+   EXITIGNOREERR = 'YES',
+   EXIT          = 'CREATEWPSOBJECT WebExplorer_Url "CPAN WWW"
+                   <%FOLDERID%> U
+                   "LOCATOR=http:%SLASHES%www.perl.com/CPAN/;OBJECTID=<%FOLDERID%_CPAN>;"'
+
+FILE
+   EXITWHEN      = 'INSTALL || UPDATE',
+   EXITIGNOREERR = 'YES',
+   EXIT          = 'CREATEWPSOBJECT WebExplorer_Url "CPAN WWW^ OS2"
+                   <%FOLDERID%> U
+                   "LOCATOR=http:%SLASHES%www.perl.com/CPAN/ports/os2;OBJECTID=<%FOLDERID%_CPANos2>;"'
+
+FILE
+   EXITWHEN      = 'INSTALL || UPDATE',
+   EXITIGNOREERR = 'YES',
+   EXIT          = 'CREATEWPSOBJECT WebExplorer_Url "CPAN WWW^ modules"
+                   <%FOLDERID%> U
+                   "LOCATOR=http:%SLASHES%www.perl.com/CPAN/modules;OBJECTID=<%FOLDERID%_CPANmod>;"'
+
+FILE
+   EXITWHEN      = 'INSTALL || UPDATE',
+   EXITIGNOREERR = 'YES',
+   EXIT          = 'CREATEWPSOBJECT WebExplorer_Url "CPAN WWW Index"
+                   <%FOLDERID%> U
+                   "LOCATOR=http:%SLASHES%www.perl.com/CPAN/index.html;OBJECTID=<%FOLDERID%_CPANind>;"'
+
+*---------------------------------------------------------------------
+*  The included package file will install and register the
+*  Installation Utility.  You do not need to make any changes to
+*  EPFISINC.PKG.
+*---------------------------------------------------------------------
+
+* INCLUDE
+   * NAME = 'DRIVE: EPFISINC.PKG'
+
+
+**********************************************************************
+
+
+FILE
+  EXIT = 'setvar unzip=unzip.exe -oj'
+
+FILE
+  EXIT = 'setvar unzip_d=-d'
+
+*---------------------------------------------------------------------
+*  Include 1 COMPONENT entry for each component.
+*
+*  The following changes are required:
+*  - Change "Component 1" in the NAME keyword to the name of the
+*    component.
+*  - Describe the component in the DESCRIPTION keyword.
+*
+*  The component must require at least the INSFIRST and DELLAST
+*  components.
+*---------------------------------------------------------------------
+COMPONENT
+   NAME        = 'Perl executables',
+   REQUIRES    = 'INSFIRST DELLAST',
+   DISPLAY     = 'YES',
+   DESCRIPTION = 'Executables and a DLL for VIO mode and PM mode perl.',
+   SIZE        = '700000'
+
+
+* Write where it is installed
+FILE
+   EXITWHEN = 'INSTALL || UPDATE || RESTORE',
+   EXIT     = 'EXEC bg tw cmd.exe /c "echo exec %EPFIAUX1DIR%>>%CONFIGFL%"'
+
+INCLUDE
+  NAME = 'execs.pkg'
+
+ADDCONFIG
+  VAR = 'set PERL_BADLANG',
+  ADDSTR = '0',
+  ADDWHEN = '(INSTALL || UPDATE || RESTORE) && ("%LANG%" != "") && ("%LANG%" != "en_us") && ("%LANG%" != "en_gb") && ("%LANG%" != "de_de") && ("%LANG%" != "C") && ("%LANG%" != "FRAN") && ("%LANG%" != "GERM") && ("%LANG%" != "ITAL") && ("%LANG%" != "USA") && ("%LANG%" != "SPAIN") && ("%LANG%" != "UK")',
+  * DELETEWHEN = '(DELETE || DIREMPTY)',
+  DELETEWHEN = DELETE
+
+UPDATECONFIG
+  VAR = 'set PATH',
+  ADDSTR = '%EPFIAUX1DIR%',
+  ADDWHEN = '(INSTALL || UPDATE || RESTORE)',
+  * DELETEWHEN = '(DELETE || DIREMPTY)',
+  DELETEWHEN = 'DIREMPTY'
+
+UPDATECONFIG
+  VAR = 'LIBPATH',
+  ADDSTR = '%EPFIAUX3DIR%',
+  ADDWHEN = '(INSTALL || UPDATE || RESTORE)',
+  * DELETEWHEN = '(DELETE || DIREMPTY)',
+  DELETEWHEN = 'DIREMPTY'
+
+* U option of CREATEWPSOBJECT does not work :-()
+
+*FILE
+*  PWS = 'putico.cmd',
+*  SOURCE = 'DRIVE: putico.cmd',
+*  UNPACK = 'NO',
+*  PWSPATH = 'FILE',
+*  EXITWHEN = 'INSTALL',
+*  * Arguments: icofile
+*  EXIT = 'EXEC bg tw cmd.exe /c %EPFICURPWS% %EPFIAUX1DIR%\perl__.ico'
+
+FILE
+   EXITWHEN      = 'INSTALL || UPDATE',
+   EXITIGNOREERR = 'NO',
+   EXIT          = 'CREATEWPSOBJECT WPFolder "Perl^ maintenance"
+                   <WP_DESKTOP> U
+                   "OBJECTID=<%FOLDERID%>;ICONFILE=%EPFIAUX1DIR%\perl__.ico"'
+
+COMPONENT
+   NAME        = 'Perl library as shipped',
+   ID          = 'PerlLib',
+   REQUIRES    = 'INSFIRST DELLAST',
+   DISPLAY     = 'YES',
+   DESCRIPTION = 'Libraries from the standard distribution + OS/2 specific libraries',
+   SIZE        = '17000000'
+
+* Write where it is installed
+FILE
+   EXITWHEN = 'INSTALL || UPDATE || RESTORE',
+   EXIT     = 'EXEC bg tw cmd.exe /c "echo privlib %EPFIFILEDIR%>>%CONFIGFL%"'
+
+
+INCLUDE
+  NAME = 'main_lib.pkg'
+
+ADDCONFIG
+  VAR = 'set PERLLIB_PREFIX',
+  ADDSTR = 'i:/perllib/lib;%EPFIFILEDIR%',
+  ADDWHEN = 'NEVER',
+  * DELETEWHEN = '(DELETE || DIREMPTY)',
+  DELETEWHEN = 'INSTALL'
+
+ADDCONFIG
+  VAR = 'set PERLLIB_PREFIX',
+  ADDSTR = 'i:/perllib/lib;%EPFIFILEDIR%',
+  ADDWHEN = '(INSTALL || UPDATE || RESTORE) && ("%EPFIFILEDIR%" != "i:/perllib/lib") && ("%EPFIFILEDIR%" != "I:\PERLLIB\LIB")',
+  * DELETEWHEN = '(DELETE || DIREMPTY)',
+  DELETEWHEN = DELETE
+
+FILE
+   EXITWHEN = '(INSTALL || UPDATE || RESTORE)',
+   EXITIGNOREERR = 'NO',
+   EXIT = 'CREATEWPSOBJECT WPProgram "Interactive^ Perl^ evaluator"
+	     <%FOLDERID%> R   
+	     "PROGTYPE=WINDOWABLEVIO;EXENAME=PERL.EXE;OBJECTID=<%FOLDERID%db>;STARTUPDIR=%EPFIFILEDIR%;PARAMETERS=-de 0;"'
+
+FILE
+   EXITWHEN = '(INSTALL || UPDATE || RESTORE)',
+   EXITIGNOREERR = 'NO',
+   EXIT = 'CREATEWPSOBJECT WPProgram "Test Perl^ installation"
+	     <%FOLDERID%> R   
+	     "PROGTYPE=WINDOWABLEVIO;EXENAME=testperl.cmd;OBJECTID=<%FOLDERID%tst>;STARTUPDIR=%EPFIFILEDIR%;"'
+
+FILE
+   EXITWHEN = '(INSTALL || UPDATE || RESTORE)',
+   EXITIGNOREERR = 'NO',
+   EXIT = 'CREATEWPSOBJECT WPProgram "Interactive^ CPAN"
+	     <%FOLDERID%> R   
+	     "PROGTYPE=WINDOWABLEVIO;EXENAME=PERL.EXE;OBJECTID=<%FOLDERID%_int_CPAN>;STARTUPDIR=%EPFIFILEDIR%;PARAMETERS=-MCPAN -e shell;"'
+
+
+
+COMPONENT
+   NAME        = 'Executables for Perl utilities',
+   REQUIRES    = 'INSFIRST DELLAST',
+   DISPLAY     = 'YES',
+   DESCRIPTION = 'Executables for Perl-related utilities: conversion to Perl from different formats, autogeneration of modules, documentation tools',
+   SIZE        = '2100000'
+
+
+* Write where it is installed
+FILE
+   EXITWHEN = 'INSTALL || UPDATE || RESTORE',
+   EXIT     = 'EXEC bg tw cmd.exe /c "echo bin %EPFIAUX2DIR%>>%CONFIGFL%"'
+
+INCLUDE
+  NAME = 'utilits.pkg'
+
+COMPONENT
+   NAME        = 'Additional Perl modules',
+   REQUIRES    = 'INSFIRST DELLAST',
+   DISPLAY     = 'YES',
+   DESCRIPTION = 'Assortment of perl modules which are not included in the standard distribution, but are very useful.',
+   SIZE        = '15000000'
+
+
+* Write where it is installed
+FILE
+   EXITWHEN = 'INSTALL || UPDATE || RESTORE',
+   EXIT     = 'EXEC bg tw cmd.exe /c "echo sitelib %EPFIAUX5DIR%>>%CONFIGFL%"'
+
+INCLUDE
+  NAME = 'site_lib.pkg'
+
+* If PERL5LIB is set, update it.
+
+UPDATECONFIG
+  VAR = 'set PERL5LIB',
+  ADDSTR = '%EPFIAUX5DIR%/5.8.2/os2',
+  ADDWHEN = '(INSTALL || UPDATE || RESTORE) && ("%EPFIFILEDIR%\SITE_PERL" != "%EPFIAUX5DIR%") && ("%PERL5LIB%" != "")',
+  * DELETEWHEN = '(DELETE || DIREMPTY)',
+  DELETEWHEN = DELETE
+
+UPDATECONFIG
+  VAR = 'set PERL5LIB',
+  ADDSTR = '%EPFIAUX5DIR%/5.8.2',
+  ADDWHEN = '(INSTALL || UPDATE || RESTORE) && ("%EPFIFILEDIR%\SITE_PERL" != "%EPFIAUX5DIR%") && ("%PERL5LIB%" != "")',
+  * DELETEWHEN = '(DELETE || DIREMPTY)',
+  DELETEWHEN = DELETE
+
+* If PERL5LIB is not set, update PERLLIB.
+
+UPDATECONFIG
+  VAR = 'set PERLLIB',
+  ADDSTR = '%EPFIAUX5DIR%/5.8.2/os2',
+  ADDWHEN = '(INSTALL || UPDATE || RESTORE) && ("%EPFIFILEDIR%\SITE_PERL" != "%EPFIAUX5DIR%") && ("%PERL5LIB%" == "")',
+  * DELETEWHEN = '(DELETE || DIREMPTY)',
+  DELETEWHEN = DELETE
+
+UPDATECONFIG
+  VAR = 'set PERLLIB',
+  ADDSTR = '%EPFIAUX5DIR%/5.8.2',
+  ADDWHEN = '(INSTALL || UPDATE || RESTORE) && ("%EPFIFILEDIR%\SITE_PERL" != "%EPFIAUX5DIR%") && ("%PERL5LIB%" == "")',
+  * DELETEWHEN = '(DELETE || DIREMPTY)',
+  DELETEWHEN = DELETE
+
+COMPONENT
+   NAME        = 'Executable for PDKSH shell',
+   REQUIRES    = 'INSFIRST DELLAST',
+   DISPLAY     = 'YES',
+   DESCRIPTION = 'Contains sh.exe. Sometimes Perl would use a shell to run an external program. This shell should take sh-syntax command line. This component contains a simplified version of one of such shells.',
+   SIZE        = '220000'
+
+* Write where it is installed
+FILE
+   EXITWHEN = 'INSTALL || UPDATE || RESTORE',
+   EXIT     = 'EXEC bg tw cmd.exe /c "echo shell %EPFIAUX4DIR%>>%CONFIGFL%"'
+
+
+INCLUDE
+  NAME = 'sh.pkg'
+
+ADDCONFIG
+  VAR = 'set PERL_SH_DIR',
+  ADDSTR = '%EPFIAUX4DIR%',
+  ADDWHEN = '(INSTALL || UPDATE || RESTORE) && ("%EPFIAUX4DIR%" != "i:\BIN")',
+  * DELETEWHEN = '(DELETE || DIREMPTY)',
+  DELETEWHEN = DELETE
+
+COMPONENT
+   NAME        = 'Support for new modules',
+   REQUIRES    = 'INSFIRST DELLAST',
+   DISPLAY     = 'YES',
+   DESCRIPTION = 'Perl headers and link libraries which are needed for new modules which require compilation. Both static linking and dynamic linking is supported.',
+   SIZE        = '13000000'
+
+
+INCLUDE
+  NAME = 'binr_lib.pkg'
+
+COMPONENT
+   NAME        = 'Perl a.out-style executable',
+   REQUIRES    = 'INSFIRST DELLAST',
+   DISPLAY     = 'YES',
+   DESCRIPTION = 'Executable for a.out-style-compiled Perl. Only this perl executable can be run under DOS and Win*, but it cannot load dynamically-loadable modules. This executable has many modules statically-linked-in.',
+   SIZE        = '6000000'
+
+
+INCLUDE
+  NAME = 'aout.pkg'
+
+COMPONENT
+   NAME        = 'Perl docs in .INF file',
+   REQUIRES    = 'INSFIRST DELLAST',
+   DISPLAY     = 'YES',
+   DESCRIPTION = 'Documentation for Perl in OS/2-specific format. One may read it by giving a command "view perl logo", or "view perl topic_name" (without quotes)',
+   SIZE        = '12100000'
+
+
+INCLUDE
+  NAME = 'inf.pkg'
+
+UPDATECONFIG
+  VAR = 'set BOOKSHELF',
+  ADDSTR = '%EPFIAUX8DIR%',
+  ADDWHEN = '(INSTALL || UPDATE || RESTORE)',
+  * DELETEWHEN = '(DELETE || DIREMPTY)',
+  DELETEWHEN = DELETE
+
+FILE
+   EXITWHEN = '(INSTALL || UPDATE || RESTORE)',
+   EXITIGNOREERR = 'NO',
+   EXIT = 'CREATEWPSOBJECT WPProgram "Perl^ documentation" <%FOLDERID%> 
+           R   "EXENAME=VIEW.EXE;OBJECTID=<%FOLDERID%inf>;STARTUPDIR=%EPFIFILEDIR%;PARAMETERS=Perl Logo"'
+
+COMPONENT
+   NAME        = 'Perl manpages',
+   REQUIRES    = 'INSFIRST DELLAST',
+   DISPLAY     = 'YES',
+   DESCRIPTION = '"manual pages" for Perl. One needs to have man installed to use perl documentation in this form.',
+   SIZE        = '7500000'
+
+
+* Write where it is installed
+FILE
+   EXITWHEN = 'INSTALL || UPDATE || RESTORE',
+   EXIT     = 'EXEC bg tw cmd.exe /c "echo man1dir %EPFIAUX7DIR%/man1>>%CONFIGFL%"'
+
+INCLUDE
+  NAME = 'man_main.pkg'
+
+UPDATECONFIG
+  VAR = 'set MANPATH',
+  ADDSTR = '%EPFIAUX7DIR%',
+  ADDWHEN = '(INSTALL || UPDATE || RESTORE)',
+  * DELETEWHEN = '(DELETE || DIREMPTY)',
+  DELETEWHEN = DELETE
+
+COMPONENT
+   NAME        = 'Perl modules manpages',
+   REQUIRES    = 'INSFIRST DELLAST',
+   DISPLAY     = 'YES',
+   DESCRIPTION = '"manual pages" for perl modules. One needs to have man installed to use perl documentation in this form.',
+   SIZE        = '9100000'
+
+* Write where it is installed
+FILE
+   EXITWHEN = 'INSTALL || UPDATE || RESTORE',
+   EXIT     = 'EXEC bg tw cmd.exe /c "echo man3dir %EPFIAUX7DIR%/man3>>%CONFIGFL%"'
+
+INCLUDE
+  NAME = 'man_modl.pkg'
+
+UPDATECONFIG
+  VAR = 'set MANPATH',
+  ADDSTR = '%EPFIAUX7DIR%',
+  ADDWHEN = '(INSTALL || UPDATE || RESTORE)',
+  * DELETEWHEN = '(DELETE || DIREMPTY)',
+  DELETEWHEN = DELETE
+
+COMPONENT
+   NAME        = 'Perl PODs',
+   REQUIRES    = 'INSFIRST DELLAST',
+   DISPLAY     = 'YES',
+   DESCRIPTION = 'The "source form" for perl documentation. This form is human-readable, and there are numerous converters to different other forms, including HTML, MAN, INFO, INF, plain-text, PDF and so on. Needed for -Mdiagnostics and splain.',
+   SIZE        = '5600000'
+
+* Write where it is installed
+FILE
+   EXITWHEN = 'INSTALL || UPDATE || RESTORE',
+   EXIT     = 'EXEC bg tw cmd.exe /c "echo pods %EPFIAUX6DIR%>>%CONFIGFL%"'
+
+INCLUDE
+  NAME = 'pods.pkg'
+
+
+COMPONENT
+   NAME        = 'Perl README, patch',
+   REQUIRES    = 'INSFIRST DELLAST',
+   DISPLAY     = 'YES',
+   DESCRIPTION = 'Text form of documentation of OS/2-specific features. Is just a duplicate of perlos2.pod from "POD" section of distribution. Also may include the patch to the master Perl distribution needed under OS/2.',
+   SIZE        = '200000'
+
+INCLUDE
+  NAME = 'readme.pkg'
+
+COMPONENT
+   NAME        = 'Perl installation/deinstallation',
+   REQUIRES    = 'INSFIRST DELLAST',
+   DISPLAY     = 'YES',
+   DESCRIPTION = 'The utility to install/deinstall perl. Not needed if you preserve the directory you installed perl from.',
+   SIZE        = '700000'
+
+FILE
+   VOLUME        = 'PROD001',
+   WHEN          = 'OUTOFDATE',
+   REPLACEINUSE  = 'I U D R',
+   UNPACK        = 'NO',
+   SOURCE        = 'DRIVE: Perl.DSC',
+   PWS           = 'perl.DSC',
+   DATE          = '950101',
+   TIME          = '1200',
+   SIZE          = '1000',
+   PWSPATH       = 'AUX10'
+
+FILE
+   VOLUME        = 'PROD001',
+   WHEN          = 'OUTOFDATE',
+   REPLACEINUSE  = 'I U D R',
+   UNPACK        = 'NO',
+   SOURCE        = 'DRIVE: Perl.ICF',
+   PWS           = 'perl.ICF',
+   DATE          = '950101',
+   TIME          = '1200',
+   SIZE          = '1000',
+   PWSPATH       = 'AUX10'
+
+FILE
+   VOLUME        = 'PROD001',
+   WHEN          = 'OUTOFDATE',
+   REPLACEINUSE  = 'I U D R',
+   UNPACK        = 'NO',
+   SOURCE        = 'DRIVE: install.exe',
+   PWS           = 'install.exe',
+   DATE          = '950101',
+   TIME          = '1200',
+   SIZE          = '1000',
+   PWSPATH       = 'AUX10'
+
+FILE
+   VOLUME        = 'PROD001',
+   WHEN          = 'OUTOFDATE',
+   REPLACEINUSE  = 'I U D R',
+   UNPACK        = 'NO',
+   SOURCE        = 'DRIVE: install.in_',
+   PWS           = 'install.in_',
+   DATE          = '950101',
+   TIME          = '1200',
+   SIZE          = '1000',
+   PWSPATH       = 'AUX10'
+
+FILE
+   VOLUME        = 'PROD001',
+   WHEN          = 'OUTOFDATE',
+   REPLACEINUSE  = 'I U D R',
+   UNPACK        = 'NO',
+   SOURCE        = 'DRIVE: Perl.PKG',
+   PWS           = 'Perl.PKG',
+   DATE          = '031221',
+   TIME          = '2125',
+   SIZE          = '24989',
+   PWSPATH       = 'AUX10'
+
+FILE
+   VOLUME        = 'PROD001',
+   WHEN          = 'OUTOFDATE',
+   REPLACEINUSE  = 'I U D R',
+   UNPACK        = 'NO',
+   SOURCE        = 'DRIVE: utilits.PKG',
+   PWS           = 'utilits.PKG',
+   DATE          = '031221',
+   TIME          = '2124',
+   SIZE          = '10321',
+   PWSPATH       = 'AUX10'
+
+FILE
+   VOLUME        = 'PROD001',
+   WHEN          = 'OUTOFDATE',
+   REPLACEINUSE  = 'I U D R',
+   UNPACK        = 'NO',
+   SOURCE        = 'DRIVE: pods.PKG',
+   PWS           = 'pods.PKG',
+   DATE          = '031221',
+   TIME          = '2124',
+   SIZE          = '16866',
+   PWSPATH       = 'AUX10'
+
+FILE
+   VOLUME        = 'PROD001',
+   WHEN          = 'OUTOFDATE',
+   REPLACEINUSE  = 'I U D R',
+   UNPACK        = 'NO',
+   SOURCE        = 'DRIVE: main_lib.PKG',
+   PWS           = 'main_lib.PKG',
+   DATE          = '031221',
+   TIME          = '2114',
+   SIZE          = '179336',
+   PWSPATH       = 'AUX10'
+
+FILE
+   VOLUME        = 'PROD001',
+   WHEN          = 'OUTOFDATE',
+   REPLACEINUSE  = 'I U D R',
+   UNPACK        = 'NO',
+   SOURCE        = 'DRIVE: readme.PKG',
+   PWS           = 'readme.PKG',
+   DATE          = '031221',
+   TIME          = '2124',
+   SIZE          = '544',
+   PWSPATH       = 'AUX10'
+
+FILE
+   VOLUME        = 'PROD001',
+   WHEN          = 'OUTOFDATE',
+   REPLACEINUSE  = 'I U D R',
+   UNPACK        = 'NO',
+   SOURCE        = 'DRIVE: inf.PKG',
+   PWS           = 'inf.PKG',
+   DATE          = '031221',
+   TIME          = '2124',
+   SIZE          = '285',
+   PWSPATH       = 'AUX10'
+
+FILE
+   VOLUME        = 'PROD001',
+   WHEN          = 'OUTOFDATE',
+   REPLACEINUSE  = 'I U D R',
+   UNPACK        = 'NO',
+   SOURCE        = 'DRIVE: man_main.PKG',
+   PWS           = 'man_main.PKG',
+   DATE          = '031221',
+   TIME          = '2124',
+   SIZE          = '23150',
+   PWSPATH       = 'AUX10'
+
+FILE
+   VOLUME        = 'PROD001',
+   WHEN          = 'OUTOFDATE',
+   REPLACEINUSE  = 'I U D R',
+   UNPACK        = 'NO',
+   SOURCE        = 'DRIVE: aout.PKG',
+   PWS           = 'aout.PKG',
+   DATE          = '031221',
+   TIME          = '2100',
+   SIZE          = '316',
+   PWSPATH       = 'AUX10'
+
+FILE
+   VOLUME        = 'PROD001',
+   WHEN          = 'OUTOFDATE',
+   REPLACEINUSE  = 'I U D R',
+   UNPACK        = 'NO',
+   SOURCE        = 'DRIVE: execs.PKG',
+   PWS           = 'execs.PKG',
+   DATE          = '031221',
+   TIME          = '2114',
+   SIZE          = '1024',
+   PWSPATH       = 'AUX10'
+
+FILE
+   VOLUME        = 'PROD001',
+   WHEN          = 'OUTOFDATE',
+   REPLACEINUSE  = 'I U D R',
+   UNPACK        = 'NO',
+   SOURCE        = 'DRIVE: binr_lib.PKG',
+   PWS           = 'binr_lib.PKG',
+   DATE          = '031221',
+   TIME          = '2100',
+   SIZE          = '48341',
+   PWSPATH       = 'AUX10'
+
+FILE
+   VOLUME        = 'PROD001',
+   WHEN          = 'OUTOFDATE',
+   REPLACEINUSE  = 'I U D R',
+   UNPACK        = 'NO',
+   SOURCE        = 'DRIVE: site_lib.PKG',
+   PWS           = 'site_lib.PKG',
+   DATE          = '031221',
+   TIME          = '2213',
+   SIZE          = '222674',
+   PWSPATH       = 'AUX10'
+
+FILE
+   VOLUME        = 'PROD001',
+   WHEN          = 'OUTOFDATE',
+   REPLACEINUSE  = 'I U D R',
+   UNPACK        = 'NO',
+   SOURCE        = 'DRIVE: sh.PKG',
+   PWS           = 'sh.PKG',
+   DATE          = '031221',
+   TIME          = '2125',
+   SIZE          = '307',
+   PWSPATH       = 'AUX10'
+
+FILE
+   VOLUME        = 'PROD001',
+   WHEN          = 'OUTOFDATE',
+   REPLACEINUSE  = 'I U D R',
+   UNPACK        = 'NO',
+   SOURCE        = 'DRIVE: man_modl.PKG',
+   PWS           = 'man_modl.PKG',
+   DATE          = '031221',
+   TIME          = '2125',
+   SIZE          = '80151',
+   PWSPATH       = 'AUX10'
+
+
+FILE
+   EXITWHEN = '(INSTALL || UPDATE || RESTORE)',
+   EXITIGNOREERR = 'NO',
+   EXIT = 'CREATEWPSOBJECT WPProgram "Installation^ Utility" <%FOLDERID%> R
+            "EXENAME=%EPFIAUX10DIR%//install.EXE;OBJECTID=<%FOLDERID%INST>;STARTUPDIR=%EPFIAUX10DIR%;"'
+
+*---------------------------------------------------------------------
+*  This component deletes the product folder; it must be the last
+*  COMPONENT entry in the package file.
+*
+*  No changes are required to any entry in this component.
+*---------------------------------------------------------------------
+COMPONENT
+   NAME    = 'DELLAST',
+   ID      = 'DELLAST',
+   DISPLAY = 'NO',
+   SIZE    = '0'
+
+FILE
+   EXITWHEN      = 'DELETE',
+   EXITIGNOREERR = 'YES',
+   EXIT          = 'DELETEWPSOBJECT <%FOLDERID%>'
+
+* It should be possible to run these two from the source dir,
+* but I do not know how to do it... :-()
+
+FILE
+  PWS = 'edit_cfg.pl',
+  SOURCE = 'DRIVE: edit_cfg.pl',
+  UNPACK = 'NO',
+  PWSPATH = 'FILE'
+
+FILE
+  PWS  = '5.8.2/os2/Config.pm0',
+  DOWNLOAD = 'DELETE',
+  WHEN = 'DELETE'
+
+FILE
+  PWS = 'edit_cfg.cmd',
+  SOURCE = 'DRIVE: edit_cfg.cmd',
+  UNPACK = 'NO',
+  PWSPATH = 'FILE',
+  EXITWHEN = 'INSTALL',
+  * Arguments: perl.dll-dir, perllib-dir[f:/perllib], perl.exe-dir
+  EXIT = 'EXEC fg tw cmd.exe /c %EPFICURPWS% %EPFIAUX3DIR% %EPFIFILEDIR% %EPFIAUX1DIR%'
+

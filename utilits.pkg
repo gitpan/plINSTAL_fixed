@@ -1,0 +1,725 @@
+
+PACKFILE
+  ID = 'utils',
+  SOURCE = 'DRIVE: perl_utl.zip',
+  * -j circumvents a limitation of SI
+  UNPACK = '%UNZIP% %EPFICURUPS% %UNZIP_D% %EPFICURUPDIR%'
+
+FILE
+  PWS = 'GET.cmd',
+  PACKID = 'utils',
+  DATE = 031216,
+  TIME = 1558,
+  SIZE = 14827,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'HEAD.cmd',
+  PACKID = 'utils',
+  DATE = 031216,
+  TIME = 1558,
+  SIZE = 14827,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'POST.cmd',
+  PACKID = 'utils',
+  DATE = 031216,
+  TIME = 1558,
+  SIZE = 14827,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'a2p.exe',
+  PACKID = 'utils',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031215,
+  TIME = 2042,
+  SIZE = 55685,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'c2ph.cmd',
+  PACKID = 'utils',
+  DATE = 031104,
+  TIME = 2054,
+  SIZE = 37861,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'compile_encoding.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 6109,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'cpan.cmd',
+  PACKID = 'utils',
+  DATE = 031216,
+  TIME = 1558,
+  SIZE = 4067,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'cpanp.cmd',
+  PACKID = 'utils',
+  DATE = 031216,
+  TIME = 1558,
+  SIZE = 5463,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'cpansign.cmd',
+  PACKID = 'utils',
+  DATE = 031216,
+  TIME = 1558,
+  SIZE = 2278,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'cpansmoke.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 10627,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'cpantest.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 10160,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'crc32.cmd',
+  PACKID = 'utils',
+  DATE = 031203,
+  TIME = 1942,
+  SIZE = 766,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'dbiprof.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 4853,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'dbiproxy.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 5575,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'dbish.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 436,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'decode-base64.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 224,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'decode-qp.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 221,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'dprofpp.cmd',
+  PACKID = 'utils',
+  DATE = 031104,
+  TIME = 2054,
+  SIZE = 24198,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'edi2xml.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 3038,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'enc2xs.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 39405,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'encode-base64.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 365,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'encode-qp.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 221,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'find2perl.cmd',
+  PACKID = 'utils',
+  DATE = 031104,
+  TIME = 2054,
+  SIZE = 24240,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'h2ph.cmd',
+  PACKID = 'utils',
+  DATE = 031104,
+  TIME = 2054,
+  SIZE = 25562,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'h2xs.cmd',
+  PACKID = 'utils',
+  DATE = 031104,
+  TIME = 2054,
+  SIZE = 61901,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'imgsize.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 2892,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'libnetcfg.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 16474,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'lwp-download.cmd',
+  PACKID = 'utils',
+  DATE = 031216,
+  TIME = 1558,
+  SIZE = 7209,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'lwp-mirror.cmd',
+  PACKID = 'utils',
+  DATE = 031216,
+  TIME = 1558,
+  SIZE = 2632,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'lwp-request.cmd',
+  PACKID = 'utils',
+  DATE = 031216,
+  TIME = 1558,
+  SIZE = 14827,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'lwp-rget.cmd',
+  PACKID = 'utils',
+  DATE = 031216,
+  TIME = 1558,
+  SIZE = 15408,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'make_encmap.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 3215,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'mkdtdskel.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 442,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'mkdtskel.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 1596,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'parl.exe',
+  PACKID = 'utils',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031214,
+  TIME = 2000,
+  SIZE = 458616,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'parldyn.exe',
+  PACKID = 'utils',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031215,
+  TIME = 0315,
+  SIZE = 458692,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'perl5.00553.exe',
+  PACKID = 'utils',
+  REPLACEINUSE = 'D I R U',
+  DATE = 981112,
+  TIME = 2345,
+  SIZE = 21999,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'perl5.8.1.exe',
+  PACKID = 'utils',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031011,
+  TIME = 1531,
+  SIZE = 13202,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'perl5.8.2.exe',
+  PACKID = 'utils',
+  REPLACEINUSE = 'D I R U',
+  DATE = 031215,
+  TIME = 1920,
+  SIZE = 13202,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'perl__.exe',
+  PACKID = 'utils',
+  REPLACEINUSE = 'D I R U',
+  DATE = 981003,
+  TIME = 0035,
+  SIZE = 6259,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'perl___.exe',
+  PACKID = 'utils',
+  REPLACEINUSE = 'D I R U',
+  DATE = 981003,
+  TIME = 0035,
+  SIZE = 6259,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'perlbug.cmd',
+  PACKID = 'utils',
+  DATE = 031203,
+  TIME = 1942,
+  SIZE = 38109,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'perlcc.cmd',
+  PACKID = 'utils',
+  DATE = 031104,
+  TIME = 2054,
+  SIZE = 18632,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'perldoc.cmd',
+  PACKID = 'utils',
+  DATE = 031203,
+  TIME = 1942,
+  SIZE = 264,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'perlivp.cmd',
+  PACKID = 'utils',
+  DATE = 031203,
+  TIME = 1942,
+  SIZE = 12115,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'pfind.cmd',
+  PACKID = 'utils',
+  DATE = 031102,
+  TIME = 0042,
+  SIZE = 22403,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'phone2yaml.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 2658,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'piconv.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 5718,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'pl2pm.cmd',
+  PACKID = 'utils',
+  DATE = 031104,
+  TIME = 2054,
+  SIZE = 4927,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'pod2html.cmd',
+  PACKID = 'utils',
+  DATE = 031104,
+  TIME = 2054,
+  SIZE = 2511,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'pod2ipf.cmd',
+  PACKID = 'utils',
+  DATE = 031216,
+  TIME = 2232,
+  SIZE = 77861,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'pod2latex.cmd',
+  PACKID = 'utils',
+  DATE = 031104,
+  TIME = 2054,
+  SIZE = 8773,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'pod2man.cmd',
+  PACKID = 'utils',
+  DATE = 031104,
+  TIME = 2054,
+  SIZE = 20087,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'pod2texi.cmd',
+  PACKID = 'utils',
+  DATE = 960927,
+  TIME = 2043,
+  SIZE = 23990,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'pod2text.cmd',
+  PACKID = 'utils',
+  DATE = 031104,
+  TIME = 2054,
+  SIZE = 8062,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'pod2usage.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 3456,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'podchecker.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 3861,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'podselect.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 2602,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'pp.cmd',
+  PACKID = 'utils',
+  DATE = 031216,
+  TIME = 1558,
+  SIZE = 32463,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'psed.cmd',
+  PACKID = 'utils',
+  DATE = 031104,
+  TIME = 2054,
+  SIZE = 54729,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'pstruct.cmd',
+  PACKID = 'utils',
+  DATE = 031104,
+  TIME = 2054,
+  SIZE = 37861,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'ptar.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 1722,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 's2p.cmd',
+  PACKID = 'utils',
+  DATE = 031104,
+  TIME = 2054,
+  SIZE = 54729,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'splain.cmd',
+  PACKID = 'utils',
+  DATE = 031104,
+  TIME = 2054,
+  SIZE = 17009,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'testperl.cmd',
+  PACKID = 'utils',
+  DATE = 980121,
+  TIME = 2358,
+  SIZE = 6197,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'tkpp.cmd',
+  PACKID = 'utils',
+  DATE = 031216,
+  TIME = 1558,
+  SIZE = 30167,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'xml2edi.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 3194,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'xml_grep.cmd',
+  PACKID = 'utils',
+  DATE = 031216,
+  TIME = 1558,
+  SIZE = 9754,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'xml_pp.cmd',
+  PACKID = 'utils',
+  DATE = 031216,
+  TIME = 1558,
+  SIZE = 7862,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'xml_spellcheck.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 6845,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'xmlpretty.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 3579,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'xmlsemdiff.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 722,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'xpath.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 1557,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'xslt-parser.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 2425,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'xsubpp.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 53186,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'xyx.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 1860,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'yaml2outline.cmd',
+  PACKID = 'utils',
+  DATE = 031010,
+  TIME = 1258,
+  SIZE = 3515,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'yapp.cmd',
+  PACKID = 'utils',
+  DATE = 031216,
+  TIME = 1558,
+  SIZE = 6825,
+  PWSPATH = 'AUX2'
+
+
+FILE
+  PWS = 'ysh.cmd',
+  PACKID = 'utils',
+  DATE = 031216,
+  TIME = 1558,
+  SIZE = 10105,
+  PWSPATH = 'AUX2'
+
